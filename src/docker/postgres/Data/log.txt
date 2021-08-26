@@ -1,0 +1,1675 @@
+2019-09-24 19:12:51.588 +08 [2188] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-24 19:12:51.589 +08 [2188] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-24 19:12:51.805 +08 [11216] LOG:  database system was shut down at 2019-09-24 19:12:45 +08
+2019-09-24 19:12:52.052 +08 [2188] LOG:  database system is ready to accept connections
+2019-09-24 19:13:25.751 +08 [2188] LOG:  received fast shutdown request
+2019-09-24 19:13:25.800 +08 [2188] LOG:  aborting any active transactions
+2019-09-24 19:13:25.822 +08 [2188] LOG:  worker process: logical replication launcher (PID 11632) exited with exit code 1
+2019-09-24 19:13:25.823 +08 [5276] LOG:  shutting down
+2019-09-24 19:13:25.915 +08 [2188] LOG:  database system is shut down
+2019-09-24 19:13:30.259 +08 [7948] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-24 19:13:30.260 +08 [7948] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-24 19:13:30.418 +08 [15112] LOG:  database system was shut down at 2019-09-24 19:13:25 +08
+2019-09-24 19:13:30.628 +08 [7948] LOG:  database system is ready to accept connections
+2019-09-24 19:24:13.159 +08 [7948] LOG:  received fast shutdown request
+2019-09-24 19:24:13.211 +08 [7948] LOG:  aborting any active transactions
+2019-09-24 19:24:13.241 +08 [7948] LOG:  worker process: logical replication launcher (PID 13544) exited with exit code 1
+2019-09-24 19:24:13.242 +08 [2248] LOG:  shutting down
+2019-09-24 19:24:13.439 +08 [7948] LOG:  database system is shut down
+2019-09-24 19:28:53.306 +08 [6536] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-24 19:28:53.307 +08 [6536] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-24 19:28:53.582 +08 [16180] LOG:  database system was shut down at 2019-09-24 19:24:13 +08
+2019-09-24 19:28:53.969 +08 [6536] LOG:  database system is ready to accept connections
+2019-09-24 19:32:21.433 +08 [6536] LOG:  received fast shutdown request
+2019-09-24 19:32:21.483 +08 [6536] LOG:  aborting any active transactions
+2019-09-24 19:32:21.504 +08 [6536] LOG:  worker process: logical replication launcher (PID 14632) exited with exit code 1
+2019-09-24 19:32:21.508 +08 [6768] LOG:  shutting down
+2019-09-24 19:32:21.612 +08 [6536] LOG:  database system is shut down
+2019-09-24 20:36:52.307 +08 [16104] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-24 20:36:52.307 +08 [16104] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-24 20:36:52.511 +08 [4076] LOG:  database system was shut down at 2019-09-24 19:32:21 +08
+2019-09-24 20:36:52.772 +08 [16104] LOG:  database system is ready to accept connections
+2019-09-24 20:42:10.699 +08 [15896] ERROR:  canceling statement due to user request
+2019-09-24 20:42:10.719 +08 [16104] LOG:  received fast shutdown request
+2019-09-24 20:42:10.770 +08 [16104] LOG:  aborting any active transactions
+2019-09-24 20:42:10.771 +08 [16104] LOG:  worker process: logical replication launcher (PID 15896) exited with exit code 1
+2019-09-24 20:42:10.787 +08 [1148] LOG:  shutting down
+2019-09-24 20:42:10.873 +08 [16104] LOG:  database system is shut down
+2019-09-25 09:50:11.220 +08 [5692] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 09:50:11.221 +08 [5692] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 09:50:11.338 +08 [3400] LOG:  database system was shut down at 2019-09-24 20:42:10 +08
+2019-09-25 09:50:11.511 +08 [5692] LOG:  database system is ready to accept connections
+2019-09-25 10:05:04.715 +08 [5692] LOG:  received fast shutdown request
+2019-09-25 10:05:04.717 +08 [5692] LOG:  aborting any active transactions
+2019-09-25 10:05:04.728 +08 [5692] LOG:  worker process: logical replication launcher (PID 2580) exited with exit code 1
+2019-09-25 10:05:04.729 +08 [13816] LOG:  shutting down
+2019-09-25 10:05:04.774 +08 [5692] LOG:  database system is shut down
+2019-09-25 14:34:14.974 +08 [8108] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:34:14.974 +08 [8108] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:34:15.094 +08 [16096] LOG:  database system was shut down at 2019-09-25 10:05:04 +08
+2019-09-25 14:34:15.262 +08 [8108] LOG:  database system is ready to accept connections
+2019-09-25 14:39:35.492 +08 [11612] ERROR:  canceling statement due to user request
+2019-09-25 14:39:35.504 +08 [8108] LOG:  received fast shutdown request
+2019-09-25 14:39:35.514 +08 [8108] LOG:  aborting any active transactions
+2019-09-25 14:39:35.516 +08 [8108] LOG:  worker process: logical replication launcher (PID 11612) exited with exit code 1
+2019-09-25 14:39:35.531 +08 [15144] LOG:  shutting down
+2019-09-25 14:39:35.615 +08 [8108] LOG:  database system is shut down
+2019-09-25 14:45:50.308 +08 [2480] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:45:50.308 +08 [2480] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:45:50.415 +08 [8460] LOG:  database system was shut down at 2019-09-25 14:39:35 +08
+2019-09-25 14:45:50.603 +08 [2480] LOG:  database system is ready to accept connections
+2019-09-25 14:46:01.521 +08 [9640] ERROR:  canceling statement due to user request
+2019-09-25 14:46:01.528 +08 [2480] LOG:  received fast shutdown request
+2019-09-25 14:46:01.531 +08 [2480] LOG:  aborting any active transactions
+2019-09-25 14:46:01.536 +08 [2480] LOG:  worker process: logical replication launcher (PID 9640) exited with exit code 1
+2019-09-25 14:46:01.546 +08 [14524] LOG:  shutting down
+2019-09-25 14:46:01.603 +08 [2480] LOG:  database system is shut down
+2019-09-25 14:46:34.175 +08 [16472] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:46:34.175 +08 [16472] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:46:34.292 +08 [7152] LOG:  database system was shut down at 2019-09-25 14:46:01 +08
+2019-09-25 14:46:34.460 +08 [16472] LOG:  database system is ready to accept connections
+2019-09-25 14:46:44.703 +08 [13160] ERROR:  canceling statement due to user request
+2019-09-25 14:46:44.715 +08 [16472] LOG:  worker process: logical replication launcher (PID 13160) exited with exit code 1
+2019-09-25 14:46:44.716 +08 [16472] LOG:  received fast shutdown request
+2019-09-25 14:46:44.725 +08 [16472] LOG:  aborting any active transactions
+2019-09-25 14:46:44.751 +08 [15768] LOG:  shutting down
+2019-09-25 14:46:44.800 +08 [16472] LOG:  database system is shut down
+2019-09-25 14:47:28.785 +08 [8628] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:47:28.785 +08 [8628] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:47:28.891 +08 [16172] LOG:  database system was shut down at 2019-09-25 14:46:44 +08
+2019-09-25 14:47:29.045 +08 [8628] LOG:  database system is ready to accept connections
+2019-09-25 14:47:50.929 +08 [8628] LOG:  received fast shutdown request
+2019-09-25 14:47:50.932 +08 [8628] LOG:  aborting any active transactions
+2019-09-25 14:47:50.943 +08 [8628] LOG:  worker process: logical replication launcher (PID 9456) exited with exit code 1
+2019-09-25 14:47:50.944 +08 [16748] LOG:  shutting down
+2019-09-25 14:47:50.995 +08 [8628] LOG:  database system is shut down
+2019-09-25 14:48:23.937 +08 [14548] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:48:23.938 +08 [14548] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:48:24.036 +08 [9368] LOG:  database system was shut down at 2019-09-25 14:47:50 +08
+2019-09-25 14:48:24.170 +08 [14548] LOG:  database system is ready to accept connections
+2019-09-25 14:48:31.172 +08 [10552] ERROR:  canceling statement due to user request
+2019-09-25 14:48:31.179 +08 [14548] LOG:  received fast shutdown request
+2019-09-25 14:48:31.188 +08 [14548] LOG:  aborting any active transactions
+2019-09-25 14:48:31.188 +08 [14548] LOG:  worker process: logical replication launcher (PID 10552) exited with exit code 1
+2019-09-25 14:48:31.212 +08 [12924] LOG:  shutting down
+2019-09-25 14:48:31.259 +08 [14548] LOG:  database system is shut down
+2019-09-25 14:49:01.604 +08 [9448] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:49:01.604 +08 [9448] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:49:01.710 +08 [15144] LOG:  database system was shut down at 2019-09-25 14:48:31 +08
+2019-09-25 14:49:01.867 +08 [9448] LOG:  database system is ready to accept connections
+2019-09-25 14:49:16.953 +08 [9448] LOG:  received fast shutdown request
+2019-09-25 14:49:16.955 +08 [9448] LOG:  aborting any active transactions
+2019-09-25 14:49:16.965 +08 [9448] LOG:  worker process: logical replication launcher (PID 5972) exited with exit code 1
+2019-09-25 14:49:16.967 +08 [5868] LOG:  shutting down
+2019-09-25 14:49:17.024 +08 [9448] LOG:  database system is shut down
+2019-09-25 14:49:31.133 +08 [11888] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:49:31.134 +08 [11888] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:49:31.246 +08 [14652] LOG:  database system was shut down at 2019-09-25 14:49:16 +08
+2019-09-25 14:49:31.379 +08 [11888] LOG:  database system is ready to accept connections
+2019-09-25 14:49:54.948 +08 [11888] LOG:  received fast shutdown request
+2019-09-25 14:49:54.958 +08 [11888] LOG:  aborting any active transactions
+2019-09-25 14:49:54.967 +08 [11888] LOG:  worker process: logical replication launcher (PID 8616) exited with exit code 1
+2019-09-25 14:49:54.970 +08 [15556] LOG:  shutting down
+2019-09-25 14:49:55.032 +08 [11888] LOG:  database system is shut down
+2019-09-25 14:50:15.515 +08 [14688] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:50:15.516 +08 [14688] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:50:15.620 +08 [17820] LOG:  database system was shut down at 2019-09-25 14:49:54 +08
+2019-09-25 14:50:15.770 +08 [14688] LOG:  database system is ready to accept connections
+2019-09-25 14:50:37.901 +08 [14688] LOG:  server process (PID 12304) was terminated by exception 0xC000013A
+2019-09-25 14:50:37.901 +08 [14688] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-09-25 14:50:37.901 +08 [14688] LOG:  terminating any other active server processes
+2019-09-25 14:50:37.904 +08 [3452] WARNING:  terminating connection because of crash of another server process
+2019-09-25 14:50:37.904 +08 [3452] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-09-25 14:50:37.904 +08 [3452] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-09-25 14:50:37.931 +08 [14688] LOG:  all server processes terminated; reinitializing
+2019-09-25 14:50:38.015 +08 [1988] LOG:  database system was interrupted; last known up at 2019-09-25 14:50:15 +08
+2019-09-25 14:50:38.898 +08 [1988] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-25 14:50:38.904 +08 [1988] LOG:  redo starts at 0/16BD048
+2019-09-25 14:50:38.904 +08 [1988] LOG:  invalid record length at 0/16BD080: wanted 24, got 0
+2019-09-25 14:50:38.904 +08 [1988] LOG:  redo done at 0/16BD048
+2019-09-25 14:50:39.055 +08 [14688] LOG:  database system is ready to accept connections
+2019-09-25 14:50:41.361 +08 [14688] LOG:  received fast shutdown request
+2019-09-25 14:50:41.371 +08 [14688] LOG:  aborting any active transactions
+2019-09-25 14:50:41.381 +08 [14688] LOG:  worker process: logical replication launcher (PID 18348) exited with exit code 1
+2019-09-25 14:50:41.382 +08 [18252] LOG:  shutting down
+2019-09-25 14:50:41.424 +08 [14688] LOG:  database system is shut down
+2019-09-25 14:52:17.643 +08 [13080] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-25 14:52:17.643 +08 [13080] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-25 14:52:17.747 +08 [16516] LOG:  database system was shut down at 2019-09-25 14:50:41 +08
+2019-09-25 14:52:17.881 +08 [13080] LOG:  database system is ready to accept connections
+2019-09-25 14:52:41.579 +08 [13080] LOG:  received fast shutdown request
+2019-09-25 14:52:41.589 +08 [13080] LOG:  aborting any active transactions
+2019-09-25 14:52:41.601 +08 [13080] LOG:  worker process: logical replication launcher (PID 11080) exited with exit code 1
+2019-09-25 14:52:41.602 +08 [8308] LOG:  shutting down
+2019-09-25 14:52:41.672 +08 [13080] LOG:  database system is shut down
+2019-09-26 11:59:40.668 +08 [10096] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-26 11:59:40.671 +08 [10096] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-26 11:59:40.971 +08 [2224] LOG:  database system was shut down at 2019-09-25 14:52:41 +08
+2019-09-26 11:59:41.326 +08 [10096] LOG:  database system is ready to accept connections
+2019-09-26 12:40:29.005 +08 [10096] LOG:  received fast shutdown request
+2019-09-26 12:40:29.008 +08 [10096] LOG:  aborting any active transactions
+2019-09-26 12:40:29.017 +08 [10096] LOG:  worker process: logical replication launcher (PID 5192) exited with exit code 1
+2019-09-26 12:40:29.020 +08 [14056] LOG:  shutting down
+2019-09-26 12:40:29.069 +08 [10096] LOG:  database system is shut down
+2019-09-26 14:32:46.597 +08 [9556] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-26 14:32:46.598 +08 [9556] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-26 14:32:46.706 +08 [14228] LOG:  database system was shut down at 2019-09-26 12:40:29 +08
+2019-09-26 14:32:46.851 +08 [9556] LOG:  database system is ready to accept connections
+2019-09-26 14:33:48.102 +08 [15556] ERROR:  cannot insert into column "id"
+2019-09-26 14:33:48.102 +08 [15556] DETAIL:  Column "id" is an identity column defined as GENERATED ALWAYS.
+2019-09-26 14:33:48.102 +08 [15556] HINT:  Use OVERRIDING SYSTEM VALUE to override.
+2019-09-26 14:33:48.102 +08 [15556] STATEMENT:  INSERT INTO public.stallmonitor_stallinfo (id,name,stallinfo,stallposterfile)
+		VALUES ($1,$2,$3,$4)
+2019-09-26 15:38:37.386 +08 [17768] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-26 15:50:45.031 +08 [9556] LOG:  received fast shutdown request
+2019-09-26 15:50:45.035 +08 [9556] LOG:  aborting any active transactions
+2019-09-26 15:50:45.046 +08 [9556] LOG:  worker process: logical replication launcher (PID 6176) exited with exit code 1
+2019-09-26 15:50:45.052 +08 [15992] LOG:  shutting down
+2019-09-26 15:50:45.106 +08 [9556] LOG:  database system is shut down
+2019-09-27 15:28:03.687 +08 [1228] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-27 15:28:03.688 +08 [1228] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-27 15:28:03.943 +08 [6868] LOG:  database system was shut down at 2019-09-26 15:50:45 +08
+2019-09-27 15:28:04.273 +08 [1228] LOG:  database system is ready to accept connections
+2019-09-27 15:48:10.558 +08 [1228] LOG:  received fast shutdown request
+2019-09-27 15:48:10.607 +08 [1228] LOG:  aborting any active transactions
+2019-09-27 15:48:10.627 +08 [1228] LOG:  worker process: logical replication launcher (PID 4148) exited with exit code 1
+2019-09-27 15:48:10.632 +08 [7832] LOG:  shutting down
+2019-09-27 15:48:10.719 +08 [1228] LOG:  database system is shut down
+2019-09-27 16:01:04.962 +08 [16160] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-27 16:01:04.962 +08 [16160] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-27 16:01:05.173 +08 [14764] LOG:  database system was shut down at 2019-09-27 15:48:10 +08
+2019-09-27 16:01:05.451 +08 [16160] LOG:  database system is ready to accept connections
+2019-09-27 16:12:53.024 +08 [16160] LOG:  received fast shutdown request
+2019-09-27 16:12:53.074 +08 [16160] LOG:  aborting any active transactions
+2019-09-27 16:12:53.090 +08 [16160] LOG:  worker process: logical replication launcher (PID 9952) exited with exit code 1
+2019-09-27 16:12:53.095 +08 [5456] LOG:  shutting down
+2019-09-27 16:12:53.193 +08 [16160] LOG:  database system is shut down
+2019-09-30 18:32:38.613 +08 [13180] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:32:38.613 +08 [13180] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:32:38.648 +08 [13180] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:32:38.650 +08 [13180] LOG:  database system is shut down
+2019-09-30 18:38:29.779 +08 [10972] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:38:29.779 +08 [10972] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:38:29.796 +08 [10972] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:38:29.798 +08 [10972] LOG:  database system is shut down
+2019-09-30 18:38:55.117 +08 [2896] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:38:55.117 +08 [2896] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:38:55.137 +08 [2896] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:38:55.139 +08 [2896] LOG:  database system is shut down
+2019-09-30 18:39:09.232 +08 [15248] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:39:09.232 +08 [15248] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:39:09.248 +08 [15248] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:39:09.250 +08 [15248] LOG:  database system is shut down
+2019-09-30 18:39:30.537 +08 [20524] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:39:30.538 +08 [20524] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:39:30.555 +08 [20524] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:39:30.557 +08 [20524] LOG:  database system is shut down
+2019-09-30 18:40:06.153 +08 [5040] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:40:06.154 +08 [5040] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:40:06.170 +08 [5040] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:40:06.172 +08 [5040] LOG:  database system is shut down
+2019-09-30 18:40:23.325 +08 [15440] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:40:23.326 +08 [15440] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:40:23.342 +08 [15440] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:40:23.344 +08 [15440] LOG:  database system is shut down
+2019-09-30 18:40:46.253 +08 [16720] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:40:46.253 +08 [16720] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:40:46.270 +08 [16720] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:40:46.272 +08 [16720] LOG:  database system is shut down
+2019-09-30 18:43:41.547 +08 [13912] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:43:41.548 +08 [13912] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:43:41.568 +08 [13912] FATAL:  could not open directory "pg_tblspc": No such file or directory
+2019-09-30 18:43:41.570 +08 [13912] LOG:  database system is shut down
+2019-09-30 18:44:06.933 +08 [8652] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:44:06.933 +08 [8652] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:44:07.043 +08 [4796] LOG:  database system was shut down at 2019-09-27 16:12:53 +08
+2019-09-30 18:44:07.045 +08 [4796] LOG:  creating missing WAL directory "pg_wal/archive_status"
+2019-09-30 18:44:07.054 +08 [4796] FATAL:  could not open directory "pg_replslot": No such file or directory
+2019-09-30 18:44:07.063 +08 [8652] LOG:  startup process (PID 4796) exited with exit code 1
+2019-09-30 18:44:07.063 +08 [8652] LOG:  aborting startup due to startup process failure
+2019-09-30 18:44:07.065 +08 [8652] LOG:  database system is shut down
+2019-09-30 18:44:44.498 +08 [20348] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:44:44.498 +08 [20348] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:44:44.610 +08 [22396] LOG:  database system was shut down at 2019-09-27 16:12:53 +08
+2019-09-30 18:44:44.618 +08 [22396] FATAL:  could not open directory "pg_twophase": No such file or directory
+2019-09-30 18:44:44.627 +08 [20348] LOG:  startup process (PID 22396) exited with exit code 1
+2019-09-30 18:44:44.627 +08 [20348] LOG:  aborting startup due to startup process failure
+2019-09-30 18:44:44.629 +08 [20348] LOG:  database system is shut down
+2019-09-30 18:45:04.427 +08 [21708] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:45:04.429 +08 [21708] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:45:04.613 +08 [16940] LOG:  database system was shut down at 2019-09-27 16:12:53 +08
+2019-09-30 18:45:04.634 +08 [16940] FATAL:  could not open directory "pg_commit_ts": No such file or directory
+2019-09-30 18:45:04.642 +08 [21708] LOG:  startup process (PID 16940) exited with exit code 1
+2019-09-30 18:45:04.642 +08 [21708] LOG:  aborting startup due to startup process failure
+2019-09-30 18:45:04.644 +08 [21708] LOG:  database system is shut down
+2019-09-30 18:45:48.105 +08 [5172] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:45:48.105 +08 [5172] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:45:48.211 +08 [13136] LOG:  database system was shut down at 2019-09-27 16:12:53 +08
+2019-09-30 18:45:48.371 +08 [5172] LOG:  database system is ready to accept connections
+2019-09-30 18:45:48.426 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:48.540 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:48.540 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:49.041 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:49.041 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:49.691 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:49.691 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:50.344 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:50.344 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:50.998 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:50.998 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:51.658 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:51.658 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.310 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.310 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.656 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.657 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.657 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.657 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.657 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.750 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.751 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.969 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:52.969 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:53.627 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:53.627 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:54.277 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:54.277 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:54.934 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:54.934 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:55.593 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:55.594 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:56.255 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:56.255 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:56.913 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:56.913 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:57.572 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:57.572 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:58.227 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:58.228 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:58.642 +08 [12700] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2019-09-30 18:45:58.643 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:58.643 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:59.297 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:59.297 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:59.958 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:45:59.959 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:00.615 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:00.616 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:01.276 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:01.276 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:01.938 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:01.938 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:02.598 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:02.598 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:03.262 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:03.262 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:03.924 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:03.924 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:04.585 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:04.585 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:05.243 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:05.243 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:05.903 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:05.903 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:06.562 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:06.562 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:07.220 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:07.221 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:07.882 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:07.882 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:08.542 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:08.542 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:08.956 +08 [12700] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2019-09-30 18:46:10.542 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:12.543 +08 [12904] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2019-09-30 18:46:12.551 +08 [5172] LOG:  server process (PID 19812) was terminated by exception 0xC000013A
+2019-09-30 18:46:12.551 +08 [5172] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-09-30 18:46:12.551 +08 [5172] LOG:  terminating any other active server processes
+2019-09-30 18:46:12.553 +08 [12700] WARNING:  terminating connection because of crash of another server process
+2019-09-30 18:46:12.553 +08 [12700] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-09-30 18:46:12.553 +08 [12700] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-09-30 18:46:12.578 +08 [5172] LOG:  all server processes terminated; reinitializing
+2019-09-30 18:46:12.668 +08 [12664] LOG:  database system was interrupted; last known up at 2019-09-30 18:45:48 +08
+2019-09-30 18:46:14.800 +08 [5172] LOG:  received fast shutdown request
+2019-09-30 18:46:16.912 +08 [12664] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-30 18:46:16.914 +08 [12664] FATAL:  could not open directory "pg_stat_tmp": No such file or directory
+2019-09-30 18:46:16.923 +08 [5172] LOG:  abnormal database system shutdown
+2019-09-30 18:46:16.925 +08 [5172] LOG:  database system is shut down
+2019-09-30 18:46:26.330 +08 [18660] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:46:26.331 +08 [18660] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:46:26.437 +08 [10084] LOG:  database system was interrupted while in recovery at 2019-09-30 18:46:16 +08
+2019-09-30 18:46:26.437 +08 [10084] HINT:  This probably means that some data is corrupted and you will have to use the last backup for recovery.
+2019-09-30 18:46:27.023 +08 [10084] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-30 18:46:27.025 +08 [10084] FATAL:  could not open directory "pg_stat_tmp": No such file or directory
+2019-09-30 18:46:27.033 +08 [18660] LOG:  startup process (PID 10084) exited with exit code 1
+2019-09-30 18:46:27.033 +08 [18660] LOG:  aborting startup due to startup process failure
+2019-09-30 18:46:27.035 +08 [18660] LOG:  database system is shut down
+2019-09-30 18:47:16.310 +08 [20836] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:47:16.310 +08 [20836] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:47:16.424 +08 [19544] LOG:  database system was interrupted while in recovery at 2019-09-30 18:46:27 +08
+2019-09-30 18:47:16.424 +08 [19544] HINT:  This probably means that some data is corrupted and you will have to use the last backup for recovery.
+2019-09-30 18:47:17.147 +08 [19544] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-30 18:47:17.148 +08 [19544] FATAL:  could not open directory "pg_stat_tmp": No such file or directory
+2019-09-30 18:47:17.157 +08 [20836] LOG:  startup process (PID 19544) exited with exit code 1
+2019-09-30 18:47:17.157 +08 [20836] LOG:  aborting startup due to startup process failure
+2019-09-30 18:47:17.159 +08 [20836] LOG:  database system is shut down
+2019-09-30 18:48:00.885 +08 [13704] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:48:00.885 +08 [13704] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:48:01.000 +08 [15784] LOG:  database system was interrupted while in recovery at 2019-09-30 18:47:17 +08
+2019-09-30 18:48:01.000 +08 [15784] HINT:  This probably means that some data is corrupted and you will have to use the last backup for recovery.
+2019-09-30 18:48:01.898 +08 [15784] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-30 18:48:01.905 +08 [15784] LOG:  could not open directory "pg_snapshots": No such file or directory
+2019-09-30 18:48:01.905 +08 [15784] LOG:  redo starts at 0/16C29C8
+2019-09-30 18:48:01.905 +08 [15784] LOG:  invalid record length at 0/16C2A00: wanted 24, got 0
+2019-09-30 18:48:01.905 +08 [15784] LOG:  redo done at 0/16C29C8
+2019-09-30 18:48:01.932 +08 [15784] FATAL:  could not open directory "pg_logical/snapshots": No such file or directory
+2019-09-30 18:48:01.941 +08 [13704] LOG:  startup process (PID 15784) exited with exit code 1
+2019-09-30 18:48:01.941 +08 [13704] LOG:  aborting startup due to startup process failure
+2019-09-30 18:48:01.943 +08 [13704] LOG:  database system is shut down
+2019-09-30 18:49:11.370 +08 [19152] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:49:11.370 +08 [19152] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:49:11.485 +08 [21520] LOG:  database system shutdown was interrupted; last known up at 2019-09-30 18:48:01 +08
+2019-09-30 18:49:12.246 +08 [21520] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-30 18:49:12.251 +08 [21520] LOG:  redo starts at 0/16C29C8
+2019-09-30 18:49:12.251 +08 [21520] LOG:  invalid record length at 0/16C2A00: wanted 24, got 0
+2019-09-30 18:49:12.251 +08 [21520] LOG:  redo done at 0/16C29C8
+2019-09-30 18:49:12.258 +08 [21520] FATAL:  could not open directory "pg_logical/mappings": No such file or directory
+2019-09-30 18:49:12.266 +08 [19152] LOG:  startup process (PID 21520) exited with exit code 1
+2019-09-30 18:49:12.266 +08 [19152] LOG:  aborting startup due to startup process failure
+2019-09-30 18:49:12.269 +08 [19152] LOG:  database system is shut down
+2019-09-30 18:50:16.602 +08 [21192] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-30 18:50:16.602 +08 [21192] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-30 18:50:16.709 +08 [21332] LOG:  database system shutdown was interrupted; last known up at 2019-09-30 18:49:12 +08
+2019-09-30 18:50:17.390 +08 [21332] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-30 18:50:17.394 +08 [21332] LOG:  redo starts at 0/16C29C8
+2019-09-30 18:50:17.395 +08 [21332] LOG:  invalid record length at 0/16C2A00: wanted 24, got 0
+2019-09-30 18:50:17.395 +08 [21332] LOG:  redo done at 0/16C29C8
+2019-09-30 18:50:17.636 +08 [21192] LOG:  database system is ready to accept connections
+2019-09-30 19:14:08.625 +08 [21192] LOG:  received fast shutdown request
+2019-09-30 19:14:08.629 +08 [21192] LOG:  aborting any active transactions
+2019-09-30 19:14:08.638 +08 [21192] LOG:  worker process: logical replication launcher (PID 8864) exited with exit code 1
+2019-09-30 19:14:08.640 +08 [18068] LOG:  shutting down
+2019-09-30 19:14:08.693 +08 [21192] LOG:  database system is shut down
+2019-10-01 11:05:41.179 +08 [14764] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-01 11:05:41.180 +08 [14764] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-01 11:05:41.414 +08 [3688] LOG:  database system was shut down at 2019-09-30 19:14:08 +08
+2019-10-01 11:05:41.723 +08 [14764] LOG:  database system is ready to accept connections
+2019-10-01 11:24:32.599 +08 [14764] LOG:  received fast shutdown request
+2019-10-01 11:24:32.650 +08 [14764] LOG:  aborting any active transactions
+2019-10-01 11:24:32.670 +08 [14764] LOG:  worker process: logical replication launcher (PID 7684) exited with exit code 1
+2019-10-01 11:24:32.678 +08 [1564] LOG:  shutting down
+2019-10-01 11:24:32.777 +08 [14764] LOG:  database system is shut down
+2019-10-01 18:11:10.803 +08 [20292] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-01 18:11:10.803 +08 [20292] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-01 18:11:11.062 +08 [20448] LOG:  database system was shut down at 2019-10-01 11:24:32 +08
+2019-10-01 18:11:11.290 +08 [20292] LOG:  database system is ready to accept connections
+2019-10-01 19:00:04.414 +08 [20292] LOG:  received fast shutdown request
+2019-10-01 19:00:04.417 +08 [20292] LOG:  aborting any active transactions
+2019-10-01 19:00:04.437 +08 [20292] LOG:  worker process: logical replication launcher (PID 4372) exited with exit code 1
+2019-10-01 19:00:04.438 +08 [20476] LOG:  shutting down
+2019-10-01 19:00:04.506 +08 [20292] LOG:  database system is shut down
+2019-10-04 15:08:02.654 +08 [18336] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-04 15:08:02.655 +08 [18336] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-04 15:08:02.854 +08 [17696] LOG:  database system was shut down at 2019-10-01 19:00:04 +08
+2019-10-04 15:08:03.001 +08 [18336] LOG:  database system is ready to accept connections
+2019-10-04 15:15:37.950 +08 [14404] ERROR:  canceling statement due to user request
+2019-10-04 15:15:37.954 +08 [18336] LOG:  received fast shutdown request
+2019-10-04 15:15:37.957 +08 [18336] LOG:  aborting any active transactions
+2019-10-04 15:15:37.959 +08 [18336] LOG:  worker process: logical replication launcher (PID 14404) exited with exit code 1
+2019-10-04 15:15:37.968 +08 [17824] LOG:  shutting down
+2019-10-04 15:15:38.018 +08 [18336] LOG:  database system is shut down
+2019-10-04 15:31:15.614 +08 [18360] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-04 15:31:15.614 +08 [18360] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-04 15:31:15.721 +08 [6344] LOG:  database system was shut down at 2019-10-04 15:15:37 +08
+2019-10-04 15:31:15.847 +08 [18360] LOG:  database system is ready to accept connections
+2019-10-04 15:40:17.414 +08 [18360] LOG:  received fast shutdown request
+2019-10-04 15:40:17.416 +08 [18360] LOG:  aborting any active transactions
+2019-10-04 15:40:17.425 +08 [18360] LOG:  worker process: logical replication launcher (PID 12816) exited with exit code 1
+2019-10-04 15:40:17.428 +08 [7380] LOG:  shutting down
+2019-10-04 15:40:17.475 +08 [18360] LOG:  database system is shut down
+2019-10-04 16:10:35.549 +08 [16644] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-04 16:10:35.549 +08 [16644] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-04 16:10:35.663 +08 [18640] LOG:  database system was shut down at 2019-10-04 15:40:17 +08
+2019-10-04 16:10:35.807 +08 [16644] LOG:  database system is ready to accept connections
+2019-10-04 16:11:55.353 +08 [16644] LOG:  received fast shutdown request
+2019-10-04 16:11:55.436 +08 [16644] LOG:  aborting any active transactions
+2019-10-04 16:11:55.447 +08 [16644] LOG:  worker process: logical replication launcher (PID 7364) exited with exit code 1
+2019-10-04 16:11:55.448 +08 [13700] LOG:  shutting down
+2019-10-04 16:11:55.556 +08 [16644] LOG:  database system is shut down
+2019-10-07 07:57:46.807 +08 [20124] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-07 07:57:46.808 +08 [20124] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-07 07:57:46.933 +08 [9764] LOG:  database system was shut down at 2019-10-04 16:11:55 +08
+2019-10-07 07:57:47.055 +08 [20124] LOG:  database system is ready to accept connections
+2019-10-07 08:25:06.094 +08 [20124] LOG:  received fast shutdown request
+2019-10-07 08:25:06.098 +08 [20124] LOG:  aborting any active transactions
+2019-10-07 08:25:06.098 +08 [18988] FATAL:  terminating connection due to administrator command
+2019-10-07 08:25:06.099 +08 [3692] FATAL:  terminating connection due to administrator command
+2019-10-07 08:25:06.099 +08 [16892] FATAL:  terminating connection due to administrator command
+2019-10-07 08:25:06.099 +08 [17308] FATAL:  terminating connection due to administrator command
+2019-10-07 08:25:06.109 +08 [20124] LOG:  worker process: logical replication launcher (PID 13212) exited with exit code 1
+2019-10-07 08:25:06.112 +08 [2344] LOG:  shutting down
+2019-10-07 08:25:06.157 +08 [20124] LOG:  database system is shut down
+2019-10-07 08:41:15.643 +08 [18916] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-07 08:41:15.643 +08 [18916] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-07 08:41:15.745 +08 [2880] LOG:  database system was shut down at 2019-10-07 08:25:06 +08
+2019-10-07 08:41:15.867 +08 [18916] LOG:  database system is ready to accept connections
+2019-10-07 08:55:35.845 +08 [18916] LOG:  received fast shutdown request
+2019-10-07 08:55:35.847 +08 [18916] LOG:  aborting any active transactions
+2019-10-07 08:55:35.856 +08 [18916] LOG:  worker process: logical replication launcher (PID 19940) exited with exit code 1
+2019-10-07 08:55:35.858 +08 [1264] LOG:  shutting down
+2019-10-07 08:55:35.900 +08 [18916] LOG:  database system is shut down
+2019-10-07 11:33:59.221 +08 [14160] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-07 11:33:59.222 +08 [14160] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-07 11:33:59.505 +08 [12940] LOG:  database system was shut down at 2019-10-07 08:55:35 +08
+2019-10-07 11:33:59.848 +08 [14160] LOG:  database system is ready to accept connections
+2019-10-07 11:35:41.761 +08 [14160] LOG:  received fast shutdown request
+2019-10-07 11:35:41.765 +08 [14160] LOG:  aborting any active transactions
+2019-10-07 11:35:41.784 +08 [14160] LOG:  worker process: logical replication launcher (PID 7364) exited with exit code 1
+2019-10-07 11:35:41.786 +08 [2184] LOG:  shutting down
+2019-10-07 11:35:41.871 +08 [14160] LOG:  database system is shut down
+2019-10-07 11:42:55.122 +08 [2352] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-07 11:42:55.126 +08 [2352] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-07 11:42:55.348 +08 [3228] LOG:  database system was shut down at 2019-10-07 11:35:41 +08
+2019-10-07 11:42:55.822 +08 [2352] LOG:  database system is ready to accept connections
+2019-10-07 11:47:15.072 +08 [2352] LOG:  received fast shutdown request
+2019-10-07 11:47:15.122 +08 [2352] LOG:  aborting any active transactions
+2019-10-07 11:47:15.141 +08 [2352] LOG:  worker process: logical replication launcher (PID 8740) exited with exit code 1
+2019-10-07 11:47:15.153 +08 [9284] LOG:  shutting down
+2019-10-07 11:47:15.292 +08 [2352] LOG:  database system is shut down
+2019-10-07 11:50:51.940 +08 [15920] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-07 11:50:51.941 +08 [15920] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-07 11:50:52.139 +08 [8884] LOG:  database system was shut down at 2019-10-07 11:47:15 +08
+2019-10-07 11:50:52.423 +08 [15920] LOG:  database system is ready to accept connections
+2019-10-07 11:51:12.261 +08 [15920] LOG:  received fast shutdown request
+2019-10-07 11:51:12.311 +08 [15920] LOG:  aborting any active transactions
+2019-10-07 11:51:12.344 +08 [15920] LOG:  worker process: logical replication launcher (PID 15936) exited with exit code 1
+2019-10-07 11:51:12.382 +08 [15324] LOG:  shutting down
+2019-10-07 11:51:12.478 +08 [15920] LOG:  database system is shut down
+2019-10-09 11:29:16.003 +08 [7528] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-09 11:29:16.004 +08 [7528] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-09 11:29:16.259 +08 [15224] LOG:  database system was shut down at 2019-10-07 11:51:12 +08
+2019-10-09 11:29:16.580 +08 [7528] LOG:  database system is ready to accept connections
+2019-10-09 12:07:25.097 +08 [7528] LOG:  received fast shutdown request
+2019-10-09 12:07:25.147 +08 [7528] LOG:  aborting any active transactions
+2019-10-09 12:07:25.167 +08 [7528] LOG:  worker process: logical replication launcher (PID 8720) exited with exit code 1
+2019-10-09 12:07:25.169 +08 [4168] LOG:  shutting down
+2019-10-09 12:07:25.257 +08 [7528] LOG:  database system is shut down
+2019-10-09 13:04:35.274 +08 [20556] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-09 13:04:35.275 +08 [20556] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-09 13:04:35.388 +08 [20660] LOG:  database system was shut down at 2019-10-09 12:07:25 +08
+2019-10-09 13:04:35.530 +08 [20556] LOG:  database system is ready to accept connections
+2019-10-09 13:27:18.275 +08 [20556] LOG:  received fast shutdown request
+2019-10-09 13:27:18.285 +08 [20556] LOG:  aborting any active transactions
+2019-10-09 13:27:18.294 +08 [20556] LOG:  worker process: logical replication launcher (PID 20760) exited with exit code 1
+2019-10-09 13:27:18.295 +08 [20524] LOG:  shutting down
+2019-10-09 13:27:18.343 +08 [20556] LOG:  database system is shut down
+2019-10-09 16:55:24.097 +08 [11708] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-09 16:55:24.097 +08 [11708] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-09 16:55:24.286 +08 [19096] LOG:  database system was shut down at 2019-10-09 13:27:18 +08
+2019-10-09 16:55:24.434 +08 [11708] LOG:  database system is ready to accept connections
+2019-10-09 17:04:23.780 +08 [11708] LOG:  received fast shutdown request
+2019-10-09 17:04:23.815 +08 [11708] LOG:  aborting any active transactions
+2019-10-09 17:04:23.823 +08 [11708] LOG:  worker process: logical replication launcher (PID 16220) exited with exit code 1
+2019-10-09 17:04:23.826 +08 [13952] LOG:  shutting down
+2019-10-09 17:04:23.868 +08 [11708] LOG:  database system is shut down
+2019-10-10 09:53:57.563 +08 [17372] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-10 09:53:57.563 +08 [17372] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-10 09:53:57.672 +08 [2744] LOG:  database system was shut down at 2019-10-09 17:04:23 +08
+2019-10-10 09:53:57.825 +08 [17372] LOG:  database system is ready to accept connections
+2019-10-10 10:06:18.707 +08 [17372] LOG:  received fast shutdown request
+2019-10-10 10:06:18.709 +08 [17372] LOG:  aborting any active transactions
+2019-10-10 10:06:18.721 +08 [17372] LOG:  worker process: logical replication launcher (PID 16664) exited with exit code 1
+2019-10-10 10:06:18.722 +08 [5092] LOG:  shutting down
+2019-10-10 10:06:18.768 +08 [17372] LOG:  database system is shut down
+2019-10-11 15:32:58.682 +08 [2228] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-11 15:32:58.683 +08 [2228] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-11 15:32:58.884 +08 [14920] LOG:  database system was shut down at 2019-10-10 10:06:18 +08
+2019-10-11 15:32:59.143 +08 [2228] LOG:  database system is ready to accept connections
+2019-10-11 15:35:59.541 +08 [2228] LOG:  received fast shutdown request
+2019-10-11 15:35:59.545 +08 [2228] LOG:  aborting any active transactions
+2019-10-11 15:35:59.546 +08 [4328] FATAL:  terminating autovacuum process due to administrator command
+2019-10-11 15:35:59.561 +08 [2228] LOG:  worker process: logical replication launcher (PID 11972) exited with exit code 1
+2019-10-11 15:35:59.564 +08 [1076] LOG:  shutting down
+2019-10-11 15:35:59.650 +08 [2228] LOG:  database system is shut down
+2019-10-11 16:02:19.663 +08 [6904] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-11 16:02:19.664 +08 [6904] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-11 16:02:19.867 +08 [8308] LOG:  database system was shut down at 2019-10-11 15:35:59 +08
+2019-10-11 16:02:20.143 +08 [6904] LOG:  database system is ready to accept connections
+2019-10-11 16:08:27.867 +08 [6904] LOG:  received fast shutdown request
+2019-10-11 16:08:27.917 +08 [6904] LOG:  aborting any active transactions
+2019-10-11 16:08:27.937 +08 [6904] LOG:  worker process: logical replication launcher (PID 2060) exited with exit code 1
+2019-10-11 16:08:27.940 +08 [5496] LOG:  shutting down
+2019-10-11 16:08:28.036 +08 [6904] LOG:  database system is shut down
+2019-10-11 16:26:33.488 +08 [4660] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-11 16:26:33.489 +08 [4660] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-11 16:26:33.705 +08 [7036] LOG:  database system was shut down at 2019-10-11 16:08:27 +08
+2019-10-11 16:26:33.929 +08 [4660] LOG:  database system is ready to accept connections
+2019-10-11 16:33:12.564 +08 [11160] ERROR:  invalid input syntax for type json
+2019-10-11 16:33:12.564 +08 [11160] DETAIL:  Expected string, but found "}".
+2019-10-11 16:33:12.564 +08 [11160] CONTEXT:  JSON data, line 6: ...Bee Hoon":"3",
+		"Sichuan Veg Ban Mian":"3.5",
+	}
+2019-10-11 16:33:12.564 +08 [11160] STATEMENT:  UPDATE public.stallmonitor_stallmenu
+		SET stallmenu=$1
+		WHERE "key"=$2
+2019-10-11 16:34:47.422 +08 [4660] LOG:  received fast shutdown request
+2019-10-11 16:34:47.428 +08 [4660] LOG:  aborting any active transactions
+2019-10-11 16:34:47.446 +08 [4660] LOG:  worker process: logical replication launcher (PID 13940) exited with exit code 1
+2019-10-11 16:34:47.449 +08 [2936] LOG:  shutting down
+2019-10-11 16:34:47.541 +08 [4660] LOG:  database system is shut down
+2019-10-11 16:34:56.365 +08 [13772] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-11 16:34:56.366 +08 [13772] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-11 16:34:56.535 +08 [15088] LOG:  database system was shut down at 2019-10-11 16:34:47 +08
+2019-10-11 16:34:56.810 +08 [13772] LOG:  database system is ready to accept connections
+2019-10-11 16:48:32.434 +08 [13772] LOG:  received fast shutdown request
+2019-10-11 16:48:32.484 +08 [13772] LOG:  aborting any active transactions
+2019-10-11 16:48:32.503 +08 [13772] LOG:  worker process: logical replication launcher (PID 10228) exited with exit code 1
+2019-10-11 16:48:32.509 +08 [2232] LOG:  shutting down
+2019-10-11 16:48:32.588 +08 [13772] LOG:  database system is shut down
+2019-10-11 22:28:11.858 +08 [1708] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-11 22:28:11.858 +08 [1708] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-11 22:28:12.007 +08 [6176] LOG:  database system was shut down at 2019-10-11 16:48:32 +08
+2019-10-11 22:28:12.147 +08 [1708] LOG:  database system is ready to accept connections
+2019-10-11 23:11:58.340 +08 [1708] LOG:  received fast shutdown request
+2019-10-11 23:11:58.344 +08 [1708] LOG:  aborting any active transactions
+2019-10-11 23:11:58.354 +08 [1708] LOG:  worker process: logical replication launcher (PID 9132) exited with exit code 1
+2019-10-11 23:11:58.356 +08 [17204] LOG:  shutting down
+2019-10-11 23:11:58.407 +08 [1708] LOG:  database system is shut down
+2019-10-13 08:01:21.593 +08 [12412] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-13 08:01:21.593 +08 [12412] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-13 08:01:22.063 +08 [12616] LOG:  database system was shut down at 2019-10-11 23:11:58 +08
+2019-10-13 08:01:22.436 +08 [12412] LOG:  database system is ready to accept connections
+2019-10-13 08:02:59.186 +08 [12412] LOG:  received fast shutdown request
+2019-10-13 08:02:59.190 +08 [12412] LOG:  aborting any active transactions
+2019-10-13 08:02:59.198 +08 [12412] LOG:  worker process: logical replication launcher (PID 16424) exited with exit code 1
+2019-10-13 08:02:59.200 +08 [16228] LOG:  shutting down
+2019-10-13 08:02:59.386 +08 [12412] LOG:  database system is shut down
+2019-10-13 08:07:11.115 +08 [16636] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-13 08:07:11.115 +08 [16636] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-13 08:07:11.269 +08 [13160] LOG:  database system was shut down at 2019-10-13 08:02:59 +08
+2019-10-13 08:07:11.433 +08 [16636] LOG:  database system is ready to accept connections
+2019-10-13 08:19:37.870 +08 [7116] ERROR:  invalid input syntax for type json
+2019-10-13 08:19:37.870 +08 [7116] DETAIL:  Expected JSON value, but found ":".
+2019-10-13 08:19:37.870 +08 [7116] CONTEXT:  JSON data, line 9: ...",
+		"Bean Sprout":"2",
+		"Thai Style Beancurd"::...
+2019-10-13 08:19:37.870 +08 [7116] STATEMENT:  INSERT INTO public.stallmonitor_stallmenu (id,stallmenu,starttime,endtime,secondsperperson)
+		VALUES ($1,$2,$3,$4,$5)
+	RETURNING *
+2019-10-13 08:20:07.663 +08 [7116] ERROR:  invalid input syntax for type json
+2019-10-13 08:20:07.663 +08 [7116] DETAIL:  Expected JSON value, but found ":".
+2019-10-13 08:20:07.663 +08 [7116] CONTEXT:  JSON data, line 9: ...",
+		"Bean Sprout":"2",
+		"Thai Style Beancurd"::...
+2019-10-13 08:20:07.663 +08 [7116] STATEMENT:  INSERT INTO public.stallmonitor_stallmenu (id,stallmenu,starttime,endtime,secondsperperson)
+		VALUES ($1,$2,$3,$4,$5)
+	RETURNING *
+2019-10-13 08:21:45.144 +08 [16636] LOG:  received fast shutdown request
+2019-10-13 08:21:45.147 +08 [16636] LOG:  aborting any active transactions
+2019-10-13 08:21:45.158 +08 [16636] LOG:  worker process: logical replication launcher (PID 13036) exited with exit code 1
+2019-10-13 08:21:45.158 +08 [18172] LOG:  shutting down
+2019-10-13 08:21:45.304 +08 [16636] LOG:  database system is shut down
+2019-10-14 17:46:34.313 +08 [18716] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-14 17:46:34.313 +08 [18716] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-14 17:46:34.542 +08 [1652] LOG:  database system was shut down at 2019-10-13 08:21:45 +08
+2019-10-14 17:46:34.806 +08 [18716] LOG:  database system is ready to accept connections
+2019-10-14 17:53:24.249 +08 [18716] LOG:  received fast shutdown request
+2019-10-14 17:53:24.252 +08 [18716] LOG:  aborting any active transactions
+2019-10-14 17:53:24.263 +08 [18716] LOG:  worker process: logical replication launcher (PID 20952) exited with exit code 1
+2019-10-14 17:53:24.264 +08 [18120] LOG:  shutting down
+2019-10-14 17:53:24.309 +08 [18716] LOG:  database system is shut down
+2019-10-15 20:45:34.852 +08 [8580] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-15 20:45:34.852 +08 [8580] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-15 20:45:35.040 +08 [5820] LOG:  database system was shut down at 2019-10-14 17:53:24 +08
+2019-10-15 20:45:35.320 +08 [8580] LOG:  database system is ready to accept connections
+2019-10-15 20:53:44.089 +08 [8580] LOG:  received fast shutdown request
+2019-10-15 20:53:44.091 +08 [8580] LOG:  aborting any active transactions
+2019-10-15 20:53:44.101 +08 [8580] LOG:  worker process: logical replication launcher (PID 16012) exited with exit code 1
+2019-10-15 20:53:44.102 +08 [13904] LOG:  shutting down
+2019-10-15 20:53:44.270 +08 [8580] LOG:  database system is shut down
+2019-10-15 20:56:54.808 +08 [15644] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-15 20:56:54.808 +08 [15644] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-15 20:56:54.916 +08 [1260] LOG:  database system was shut down at 2019-10-15 20:53:44 +08
+2019-10-15 20:56:55.049 +08 [15644] LOG:  database system is ready to accept connections
+2019-10-15 21:06:14.515 +08 [15644] LOG:  received fast shutdown request
+2019-10-15 21:06:14.519 +08 [15644] LOG:  aborting any active transactions
+2019-10-15 21:06:14.528 +08 [15644] LOG:  worker process: logical replication launcher (PID 1688) exited with exit code 1
+2019-10-15 21:06:14.530 +08 [19136] LOG:  shutting down
+2019-10-15 21:06:14.572 +08 [15644] LOG:  database system is shut down
+2019-10-16 09:42:14.581 +08 [14668] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-16 09:42:14.582 +08 [14668] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-16 09:42:14.779 +08 [8488] LOG:  database system was shut down at 2019-10-15 21:06:14 +08
+2019-10-16 09:42:15.015 +08 [14668] LOG:  database system is ready to accept connections
+2019-10-16 10:01:23.446 +08 [14668] LOG:  received fast shutdown request
+2019-10-16 10:01:23.448 +08 [14668] LOG:  aborting any active transactions
+2019-10-16 10:01:23.472 +08 [14668] LOG:  worker process: logical replication launcher (PID 1352) exited with exit code 1
+2019-10-16 10:01:23.472 +08 [17724] LOG:  shutting down
+2019-10-16 10:01:23.570 +08 [14668] LOG:  database system is shut down
+2019-10-16 11:28:10.637 +08 [15840] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-16 11:28:10.639 +08 [15840] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-16 11:28:10.821 +08 [14904] LOG:  database system was shut down at 2019-10-16 10:01:23 +08
+2019-10-16 11:28:11.144 +08 [15840] LOG:  database system is ready to accept connections
+2019-10-16 11:35:05.438 +08 [15840] LOG:  received fast shutdown request
+2019-10-16 11:35:05.491 +08 [15840] LOG:  aborting any active transactions
+2019-10-16 11:35:05.515 +08 [15840] LOG:  worker process: logical replication launcher (PID 1816) exited with exit code 1
+2019-10-16 11:35:05.527 +08 [15724] LOG:  shutting down
+2019-10-16 11:35:05.651 +08 [15840] LOG:  database system is shut down
+2019-10-16 12:16:24.966 +08 [7720] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-16 12:16:24.967 +08 [7720] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-16 12:16:25.139 +08 [8900] LOG:  database system was shut down at 2019-10-16 11:35:05 +08
+2019-10-16 12:16:25.423 +08 [7720] LOG:  database system is ready to accept connections
+2019-10-16 12:18:21.269 +08 [7720] LOG:  received fast shutdown request
+2019-10-16 12:18:21.319 +08 [7720] LOG:  aborting any active transactions
+2019-10-16 12:18:21.343 +08 [7720] LOG:  worker process: logical replication launcher (PID 18788) exited with exit code 1
+2019-10-16 12:18:21.355 +08 [17924] LOG:  shutting down
+2019-10-16 12:18:21.462 +08 [7720] LOG:  database system is shut down
+2019-10-17 14:18:02.087 +08 [4844] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-17 14:18:02.088 +08 [4844] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-17 14:18:02.264 +08 [5300] LOG:  database system was shut down at 2019-10-16 12:18:21 +08
+2019-10-17 14:18:02.483 +08 [4844] LOG:  database system is ready to accept connections
+2019-10-17 15:21:21.536 +08 [15228] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-10-17 15:21:40.360 +08 [4844] LOG:  received fast shutdown request
+2019-10-17 15:21:40.364 +08 [4844] LOG:  aborting any active transactions
+2019-10-17 15:21:40.367 +08 [7604] FATAL:  terminating connection due to administrator command
+2019-10-17 15:21:40.369 +08 [7476] FATAL:  terminating connection due to administrator command
+2019-10-17 15:21:40.370 +08 [884] FATAL:  terminating connection due to administrator command
+2019-10-17 15:21:40.380 +08 [148] FATAL:  terminating connection due to administrator command
+2019-10-17 15:21:40.409 +08 [4844] LOG:  worker process: logical replication launcher (PID 3332) exited with exit code 1
+2019-10-17 15:21:40.414 +08 [13700] LOG:  shutting down
+2019-10-17 15:21:40.511 +08 [4844] LOG:  database system is shut down
+2019-10-17 15:25:25.127 +08 [15800] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-17 15:25:25.128 +08 [15800] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-17 15:25:25.329 +08 [12572] LOG:  database system was shut down at 2019-10-17 15:21:40 +08
+2019-10-17 15:25:25.695 +08 [15800] LOG:  database system is ready to accept connections
+2019-10-17 15:26:58.416 +08 [15800] LOG:  received fast shutdown request
+2019-10-17 15:26:58.438 +08 [15800] LOG:  aborting any active transactions
+2019-10-17 15:26:58.460 +08 [15800] LOG:  worker process: logical replication launcher (PID 3952) exited with exit code 1
+2019-10-17 15:26:58.462 +08 [8676] LOG:  shutting down
+2019-10-17 15:26:58.551 +08 [15800] LOG:  database system is shut down
+2019-10-17 16:13:53.897 +08 [12988] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-17 16:13:53.898 +08 [12988] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-17 16:13:54.004 +08 [15756] LOG:  database system was shut down at 2019-10-17 15:26:58 +08
+2019-10-17 16:13:54.151 +08 [12988] LOG:  database system is ready to accept connections
+2019-10-17 16:19:24.693 +08 [12988] LOG:  received fast shutdown request
+2019-10-17 16:19:24.695 +08 [12988] LOG:  aborting any active transactions
+2019-10-17 16:19:24.704 +08 [12988] LOG:  worker process: logical replication launcher (PID 3428) exited with exit code 1
+2019-10-17 16:19:24.709 +08 [8412] LOG:  shutting down
+2019-10-17 16:19:24.752 +08 [12988] LOG:  database system is shut down
+2019-10-17 19:02:12.863 +08 [11320] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-17 19:02:12.879 +08 [11320] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-17 19:02:13.093 +08 [18460] LOG:  database system was shut down at 2019-10-17 16:19:24 +08
+2019-10-17 19:02:13.266 +08 [11320] LOG:  database system is ready to accept connections
+2019-10-17 19:12:52.221 +08 [11320] LOG:  server process (PID 4200) was terminated by exception 0xC000013A
+2019-10-17 19:12:52.221 +08 [11320] DETAIL:  Failed process was running: SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"
+2019-10-17 19:12:52.221 +08 [11320] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-10-17 19:12:52.221 +08 [11320] LOG:  terminating any other active server processes
+2019-10-17 19:12:52.225 +08 [18500] WARNING:  terminating connection because of crash of another server process
+2019-10-17 19:12:52.225 +08 [18500] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-10-17 19:12:52.225 +08 [18500] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-10-17 19:12:52.226 +08 [17424] WARNING:  terminating connection because of crash of another server process
+2019-10-17 19:12:52.226 +08 [17424] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-10-17 19:12:52.226 +08 [17424] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-10-17 19:12:52.251 +08 [11320] LOG:  all server processes terminated; reinitializing
+2019-10-17 19:12:52.338 +08 [19668] LOG:  database system was interrupted; last known up at 2019-10-17 19:07:13 +08
+2019-10-17 19:12:56.903 +08 [11320] LOG:  received fast shutdown request
+2019-10-17 19:13:02.381 +08 [19668] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-10-17 19:13:02.413 +08 [19668] LOG:  redo starts at 0/16DA458
+2019-10-17 19:13:02.421 +08 [11320] LOG:  abnormal database system shutdown
+2019-10-17 19:13:02.423 +08 [11320] LOG:  database system is shut down
+2019-10-17 19:15:29.648 +08 [9432] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-17 19:15:29.648 +08 [9432] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-17 19:15:29.754 +08 [16560] LOG:  database system was interrupted while in recovery at 2019-10-17 19:13:02 +08
+2019-10-17 19:15:29.754 +08 [16560] HINT:  This probably means that some data is corrupted and you will have to use the last backup for recovery.
+2019-10-17 19:15:30.288 +08 [16560] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-10-17 19:15:30.293 +08 [16560] LOG:  redo starts at 0/16DA458
+2019-10-17 19:15:30.293 +08 [16560] LOG:  invalid record length at 0/16DA538: wanted 24, got 0
+2019-10-17 19:15:30.293 +08 [16560] LOG:  redo done at 0/16DA500
+2019-10-17 19:15:30.433 +08 [9432] LOG:  database system is ready to accept connections
+2019-10-17 19:16:37.035 +08 [9432] LOG:  received fast shutdown request
+2019-10-17 19:16:37.038 +08 [9432] LOG:  aborting any active transactions
+2019-10-17 19:16:37.048 +08 [9432] LOG:  worker process: logical replication launcher (PID 4236) exited with exit code 1
+2019-10-17 19:16:37.049 +08 [16324] LOG:  shutting down
+2019-10-17 19:16:37.111 +08 [9432] LOG:  database system is shut down
+2019-10-18 14:10:45.692 +08 [4684] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-18 14:10:45.693 +08 [4684] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-18 14:10:45.929 +08 [6224] LOG:  database system was shut down at 2019-10-17 19:16:37 +08
+2019-10-18 14:10:46.229 +08 [4684] LOG:  database system is ready to accept connections
+2019-10-18 14:19:59.854 +08 [4684] LOG:  received fast shutdown request
+2019-10-18 14:19:59.905 +08 [4684] LOG:  aborting any active transactions
+2019-10-18 14:19:59.924 +08 [4684] LOG:  worker process: logical replication launcher (PID 12772) exited with exit code 1
+2019-10-18 14:19:59.927 +08 [13504] LOG:  shutting down
+2019-10-18 14:20:00.024 +08 [4684] LOG:  database system is shut down
+2019-10-18 14:45:52.066 +08 [1632] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-18 14:45:52.067 +08 [1632] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-18 14:45:52.252 +08 [4216] LOG:  database system was shut down at 2019-10-18 14:19:59 +08
+2019-10-18 14:45:52.532 +08 [1632] LOG:  database system is ready to accept connections
+2019-10-18 15:23:29.220 +08 [1632] LOG:  received fast shutdown request
+2019-10-18 15:23:29.270 +08 [1632] LOG:  aborting any active transactions
+2019-10-18 15:23:29.293 +08 [1632] LOG:  worker process: logical replication launcher (PID 7924) exited with exit code 1
+2019-10-18 15:23:29.294 +08 [15176] LOG:  shutting down
+2019-10-18 15:23:29.378 +08 [1632] LOG:  database system is shut down
+2019-10-18 15:27:16.099 +08 [5700] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-18 15:27:16.100 +08 [5700] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-18 15:27:16.295 +08 [15508] LOG:  database system was shut down at 2019-10-18 15:23:29 +08
+2019-10-18 15:27:16.508 +08 [5700] LOG:  database system is ready to accept connections
+2019-10-18 15:31:18.105 +08 [5700] LOG:  received fast shutdown request
+2019-10-18 15:31:18.109 +08 [5700] LOG:  aborting any active transactions
+2019-10-18 15:31:18.109 +08 [17404] FATAL:  terminating connection due to administrator command
+2019-10-18 15:31:18.110 +08 [3128] FATAL:  terminating connection due to administrator command
+2019-10-18 15:31:18.129 +08 [5700] LOG:  worker process: logical replication launcher (PID 3696) exited with exit code 1
+2019-10-18 15:31:18.138 +08 [18212] LOG:  shutting down
+2019-10-18 15:31:18.228 +08 [5700] LOG:  database system is shut down
+2019-10-18 15:45:34.338 +08 [7120] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-18 15:45:34.339 +08 [7120] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-18 15:45:34.550 +08 [18424] LOG:  database system was shut down at 2019-10-18 15:31:18 +08
+2019-10-18 15:45:34.851 +08 [7120] LOG:  database system is ready to accept connections
+2019-10-18 16:12:37.277 +08 [7120] LOG:  received fast shutdown request
+2019-10-18 16:12:37.327 +08 [7120] LOG:  aborting any active transactions
+2019-10-18 16:12:37.329 +08 [17564] FATAL:  terminating connection due to administrator command
+2019-10-18 16:12:37.335 +08 [20796] FATAL:  terminating connection due to administrator command
+2019-10-18 16:12:37.349 +08 [21064] FATAL:  terminating connection due to administrator command
+2019-10-18 16:12:37.351 +08 [14340] FATAL:  terminating connection due to administrator command
+2019-10-18 16:12:37.373 +08 [7120] LOG:  worker process: logical replication launcher (PID 17824) exited with exit code 1
+2019-10-18 16:12:37.382 +08 [15936] LOG:  shutting down
+2019-10-18 16:12:37.470 +08 [7120] LOG:  database system is shut down
+2019-10-20 12:10:02.761 +08 [1612] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-20 12:10:02.761 +08 [1612] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-20 12:10:02.973 +08 [5224] LOG:  database system was shut down at 2019-10-18 16:12:37 +08
+2019-10-20 12:10:03.238 +08 [1612] LOG:  database system is ready to accept connections
+2019-10-20 12:24:02.746 +08 [1612] LOG:  received fast shutdown request
+2019-10-20 12:24:02.749 +08 [1612] LOG:  aborting any active transactions
+2019-10-20 12:24:02.768 +08 [1612] LOG:  worker process: logical replication launcher (PID 12556) exited with exit code 1
+2019-10-20 12:24:02.768 +08 [19232] LOG:  shutting down
+2019-10-20 12:24:02.814 +08 [1612] LOG:  database system is shut down
+2019-10-20 14:20:54.329 +08 [19544] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-20 14:20:54.330 +08 [19544] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-20 14:20:54.485 +08 [19588] LOG:  database system was shut down at 2019-10-20 12:24:02 +08
+2019-10-20 14:20:54.620 +08 [19544] LOG:  database system is ready to accept connections
+2019-10-20 14:26:54.504 +08 [19544] LOG:  received fast shutdown request
+2019-10-20 14:26:54.558 +08 [19544] LOG:  aborting any active transactions
+2019-10-20 14:26:54.568 +08 [19544] LOG:  worker process: logical replication launcher (PID 19708) exited with exit code 1
+2019-10-20 14:26:54.570 +08 [19616] LOG:  shutting down
+2019-10-20 14:26:54.615 +08 [19544] LOG:  database system is shut down
+2019-10-20 19:22:08.030 +08 [13388] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-20 19:22:08.031 +08 [13388] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-20 19:22:08.166 +08 [4752] LOG:  database system was shut down at 2019-10-20 14:26:54 +08
+2019-10-20 19:22:08.386 +08 [13388] LOG:  database system is ready to accept connections
+2019-10-20 19:53:02.485 +08 [13388] LOG:  received fast shutdown request
+2019-10-20 19:53:02.488 +08 [13388] LOG:  aborting any active transactions
+2019-10-20 19:53:02.489 +08 [18756] FATAL:  terminating connection due to administrator command
+2019-10-20 19:53:02.489 +08 [7856] FATAL:  terminating connection due to administrator command
+2019-10-20 19:53:02.490 +08 [9420] FATAL:  terminating connection due to administrator command
+2019-10-20 19:53:02.490 +08 [3296] FATAL:  terminating connection due to administrator command
+2019-10-20 19:53:02.503 +08 [13388] LOG:  worker process: logical replication launcher (PID 19480) exited with exit code 1
+2019-10-20 19:53:02.505 +08 [17892] LOG:  shutting down
+2019-10-20 19:53:02.554 +08 [13388] LOG:  database system is shut down
+2019-10-21 18:51:42.900 +08 [2648] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-21 18:51:42.900 +08 [2648] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-21 18:51:43.048 +08 [19388] LOG:  database system was shut down at 2019-10-20 19:53:02 +08
+2019-10-21 18:51:43.367 +08 [2648] LOG:  database system is ready to accept connections
+2019-10-21 19:13:36.201 +08 [2648] LOG:  received fast shutdown request
+2019-10-21 19:13:36.205 +08 [2648] LOG:  aborting any active transactions
+2019-10-21 19:13:36.215 +08 [2648] LOG:  worker process: logical replication launcher (PID 5868) exited with exit code 1
+2019-10-21 19:13:36.216 +08 [19068] LOG:  shutting down
+2019-10-21 19:13:36.325 +08 [2648] LOG:  database system is shut down
+2019-10-24 11:48:43.183 +08 [3340] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-24 11:48:43.184 +08 [3340] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-24 11:48:43.331 +08 [9456] LOG:  database system was shut down at 2019-10-21 19:13:36 +08
+2019-10-24 11:48:43.523 +08 [3340] LOG:  database system is ready to accept connections
+2019-10-24 12:53:02.172 +08 [3340] LOG:  received fast shutdown request
+2019-10-24 12:53:02.175 +08 [3340] LOG:  aborting any active transactions
+2019-10-24 12:53:02.176 +08 [8928] FATAL:  terminating connection due to administrator command
+2019-10-24 12:53:02.177 +08 [6784] FATAL:  terminating connection due to administrator command
+2019-10-24 12:53:02.178 +08 [9508] FATAL:  terminating connection due to administrator command
+2019-10-24 12:53:02.180 +08 [4628] FATAL:  terminating connection due to administrator command
+2019-10-24 12:53:02.195 +08 [3340] LOG:  worker process: logical replication launcher (PID 16964) exited with exit code 1
+2019-10-24 12:53:02.201 +08 [3868] LOG:  shutting down
+2019-10-24 12:53:02.252 +08 [3340] LOG:  database system is shut down
+2019-10-24 13:14:46.557 +08 [3340] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-24 13:14:46.558 +08 [3340] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-24 13:14:46.678 +08 [5400] LOG:  database system was shut down at 2019-10-24 12:53:02 +08
+2019-10-24 13:14:46.846 +08 [3340] LOG:  database system is ready to accept connections
+2019-10-24 13:16:20.118 +08 [3340] LOG:  received fast shutdown request
+2019-10-24 13:16:20.121 +08 [3340] LOG:  aborting any active transactions
+2019-10-24 13:16:20.142 +08 [3340] LOG:  worker process: logical replication launcher (PID 1200) exited with exit code 1
+2019-10-24 13:16:20.143 +08 [12424] LOG:  shutting down
+2019-10-24 13:16:20.223 +08 [3340] LOG:  database system is shut down
+2019-10-24 15:07:03.876 +08 [14444] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-24 15:07:03.878 +08 [14444] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-24 15:07:04.032 +08 [11680] LOG:  database system was shut down at 2019-10-24 13:16:20 +08
+2019-10-24 15:07:04.216 +08 [14444] LOG:  database system is ready to accept connections
+2019-10-24 15:21:14.212 +08 [14444] LOG:  received fast shutdown request
+2019-10-24 15:21:14.262 +08 [14444] LOG:  aborting any active transactions
+2019-10-24 15:21:14.283 +08 [14444] LOG:  worker process: logical replication launcher (PID 12984) exited with exit code 1
+2019-10-24 15:21:14.289 +08 [8012] LOG:  shutting down
+2019-10-24 15:21:14.383 +08 [14444] LOG:  database system is shut down
+2019-10-25 15:45:46.339 +08 [18612] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-25 15:45:46.340 +08 [18612] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-25 15:45:46.600 +08 [18472] LOG:  database system was shut down at 2019-10-24 15:21:14 +08
+2019-10-25 15:45:46.996 +08 [18612] LOG:  database system is ready to accept connections
+2019-10-25 15:55:26.288 +08 [18612] LOG:  received fast shutdown request
+2019-10-25 15:55:26.310 +08 [18612] LOG:  aborting any active transactions
+2019-10-25 15:55:26.312 +08 [2044] FATAL:  terminating connection due to administrator command
+2019-10-25 15:55:26.313 +08 [248] FATAL:  terminating connection due to administrator command
+2019-10-25 15:55:26.314 +08 [6980] FATAL:  terminating connection due to administrator command
+2019-10-25 15:55:26.317 +08 [12528] FATAL:  terminating connection due to administrator command
+2019-10-25 15:55:26.346 +08 [18612] LOG:  worker process: logical replication launcher (PID 8428) exited with exit code 1
+2019-10-25 15:55:26.357 +08 [3600] LOG:  shutting down
+2019-10-25 15:55:26.465 +08 [18612] LOG:  database system is shut down
+2019-10-25 16:07:14.667 +08 [12212] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-25 16:07:14.668 +08 [12212] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-25 16:07:14.869 +08 [16820] LOG:  database system was shut down at 2019-10-25 15:55:26 +08
+2019-10-25 16:07:15.188 +08 [12212] LOG:  database system is ready to accept connections
+2019-10-25 16:13:01.505 +08 [12212] LOG:  received fast shutdown request
+2019-10-25 16:13:01.555 +08 [12212] LOG:  aborting any active transactions
+2019-10-25 16:13:01.570 +08 [12212] LOG:  worker process: logical replication launcher (PID 2644) exited with exit code 1
+2019-10-25 16:13:01.572 +08 [14780] LOG:  shutting down
+2019-10-25 16:13:01.670 +08 [12212] LOG:  database system is shut down
+2019-10-25 16:17:42.675 +08 [18516] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-25 16:17:42.676 +08 [18516] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-25 16:17:42.861 +08 [21888] LOG:  database system was shut down at 2019-10-25 16:13:01 +08
+2019-10-25 16:17:43.188 +08 [18516] LOG:  database system is ready to accept connections
+2019-10-25 16:22:40.840 +08 [18516] LOG:  received fast shutdown request
+2019-10-25 16:22:40.890 +08 [18516] LOG:  aborting any active transactions
+2019-10-25 16:22:40.913 +08 [18516] LOG:  worker process: logical replication launcher (PID 12820) exited with exit code 1
+2019-10-25 16:22:40.914 +08 [16468] LOG:  shutting down
+2019-10-25 16:22:41.029 +08 [18516] LOG:  database system is shut down
+2019-10-25 16:33:37.378 +08 [10468] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-25 16:33:37.379 +08 [10468] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-25 16:33:37.486 +08 [8896] LOG:  database system was shut down at 2019-10-25 16:22:40 +08
+2019-10-25 16:33:37.615 +08 [10468] LOG:  database system is ready to accept connections
+2019-10-25 16:37:43.039 +08 [10468] LOG:  received fast shutdown request
+2019-10-25 16:37:43.042 +08 [10468] LOG:  aborting any active transactions
+2019-10-25 16:37:43.051 +08 [10468] LOG:  worker process: logical replication launcher (PID 9460) exited with exit code 1
+2019-10-25 16:37:43.054 +08 [2644] LOG:  shutting down
+2019-10-25 16:37:43.111 +08 [10468] LOG:  database system is shut down
+2019-10-25 16:54:59.233 +08 [14556] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-25 16:54:59.233 +08 [14556] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-25 16:54:59.336 +08 [8872] LOG:  database system was shut down at 2019-10-25 16:37:43 +08
+2019-10-25 16:54:59.481 +08 [14556] LOG:  database system is ready to accept connections
+2019-10-25 17:08:11.549 +08 [14556] LOG:  received fast shutdown request
+2019-10-25 17:08:11.559 +08 [14556] LOG:  aborting any active transactions
+2019-10-25 17:08:11.570 +08 [14556] LOG:  worker process: logical replication launcher (PID 2744) exited with exit code 1
+2019-10-25 17:08:11.571 +08 [12928] LOG:  shutting down
+2019-10-25 17:08:11.618 +08 [14556] LOG:  database system is shut down
+2019-10-27 10:12:49.435 +08 [9588] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-27 10:12:49.436 +08 [9588] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-27 10:12:49.693 +08 [3332] LOG:  database system was shut down at 2019-10-25 17:08:11 +08
+2019-10-27 10:12:49.854 +08 [9588] LOG:  database system is ready to accept connections
+2019-10-27 10:56:27.530 +08 [9588] LOG:  received fast shutdown request
+2019-10-27 10:56:27.532 +08 [9588] LOG:  aborting any active transactions
+2019-10-27 10:56:27.541 +08 [9588] LOG:  worker process: logical replication launcher (PID 19072) exited with exit code 1
+2019-10-27 10:56:27.543 +08 [19024] LOG:  shutting down
+2019-10-27 10:56:27.586 +08 [9588] LOG:  database system is shut down
+2019-10-27 13:04:14.817 +08 [6064] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-27 13:04:14.817 +08 [6064] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-27 13:04:14.965 +08 [4296] LOG:  database system was shut down at 2019-10-27 10:56:27 +08
+2019-10-27 13:04:15.277 +08 [6064] LOG:  database system is ready to accept connections
+2019-10-27 13:07:50.009 +08 [6064] LOG:  received fast shutdown request
+2019-10-27 13:07:50.013 +08 [6064] LOG:  aborting any active transactions
+2019-10-27 13:07:50.022 +08 [6064] LOG:  worker process: logical replication launcher (PID 8396) exited with exit code 1
+2019-10-27 13:07:50.023 +08 [17392] LOG:  shutting down
+2019-10-27 13:07:50.117 +08 [6064] LOG:  database system is shut down
+2019-10-27 13:28:40.400 +08 [13200] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-27 13:28:40.401 +08 [13200] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-27 13:28:40.505 +08 [14448] LOG:  database system was shut down at 2019-10-27 13:07:50 +08
+2019-10-27 13:28:40.627 +08 [13200] LOG:  database system is ready to accept connections
+2019-10-27 14:08:44.495 +08 [13200] LOG:  received fast shutdown request
+2019-10-27 14:08:44.498 +08 [13200] LOG:  aborting any active transactions
+2019-10-27 14:08:44.499 +08 [13800] FATAL:  terminating connection due to administrator command
+2019-10-27 14:08:44.499 +08 [19320] FATAL:  terminating connection due to administrator command
+2019-10-27 14:08:44.509 +08 [13200] LOG:  worker process: logical replication launcher (PID 9208) exited with exit code 1
+2019-10-27 14:08:44.512 +08 [4260] LOG:  shutting down
+2019-10-27 14:08:44.560 +08 [13200] LOG:  database system is shut down
+2019-10-27 14:11:24.895 +08 [8200] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-27 14:11:24.895 +08 [8200] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-27 14:11:25.002 +08 [15984] LOG:  database system was shut down at 2019-10-27 14:08:44 +08
+2019-10-27 14:11:25.141 +08 [8200] LOG:  database system is ready to accept connections
+2019-10-27 14:12:30.392 +08 [8200] LOG:  received fast shutdown request
+2019-10-27 14:12:30.395 +08 [8200] LOG:  aborting any active transactions
+2019-10-27 14:12:30.404 +08 [8200] LOG:  worker process: logical replication launcher (PID 14168) exited with exit code 1
+2019-10-27 14:12:30.405 +08 [14640] LOG:  shutting down
+2019-10-27 14:12:30.507 +08 [8200] LOG:  database system is shut down
+2019-10-27 14:14:56.661 +08 [3152] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-27 14:14:56.661 +08 [3152] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-27 14:14:56.766 +08 [5372] LOG:  database system was shut down at 2019-10-27 14:12:30 +08
+2019-10-27 14:14:56.912 +08 [3152] LOG:  database system is ready to accept connections
+2019-10-27 14:21:55.695 +08 [3152] LOG:  received fast shutdown request
+2019-10-27 14:21:55.697 +08 [3152] LOG:  aborting any active transactions
+2019-10-27 14:21:55.698 +08 [14320] FATAL:  terminating connection due to administrator command
+2019-10-27 14:21:55.698 +08 [13584] FATAL:  terminating connection due to administrator command
+2019-10-27 14:21:55.708 +08 [3152] LOG:  worker process: logical replication launcher (PID 13928) exited with exit code 1
+2019-10-27 14:21:55.711 +08 [5512] LOG:  shutting down
+2019-10-27 14:21:55.755 +08 [3152] LOG:  database system is shut down
+2019-10-28 10:42:05.737 +08 [21324] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-28 10:42:05.737 +08 [21324] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-28 10:42:05.843 +08 [21476] LOG:  database system was shut down at 2019-10-27 14:21:55 +08
+2019-10-28 10:42:06.015 +08 [21324] LOG:  database system is ready to accept connections
+2019-10-28 11:31:30.818 +08 [21324] LOG:  received fast shutdown request
+2019-10-28 11:31:30.821 +08 [21324] LOG:  aborting any active transactions
+2019-10-28 11:31:30.821 +08 [11776] FATAL:  terminating connection due to administrator command
+2019-10-28 11:31:30.821 +08 [14192] FATAL:  terminating connection due to administrator command
+2019-10-28 11:31:30.835 +08 [21324] LOG:  worker process: logical replication launcher (PID 4292) exited with exit code 1
+2019-10-28 11:31:30.837 +08 [17168] LOG:  shutting down
+2019-10-28 11:31:30.883 +08 [21324] LOG:  database system is shut down
+2019-10-28 16:07:07.158 +08 [2852] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-28 16:07:07.159 +08 [2852] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-28 16:07:07.264 +08 [4804] LOG:  database system was shut down at 2019-10-28 11:31:30 +08
+2019-10-28 16:07:07.392 +08 [2852] LOG:  database system is ready to accept connections
+2019-10-28 16:27:17.581 +08 [2852] LOG:  received fast shutdown request
+2019-10-28 16:27:17.584 +08 [2852] LOG:  aborting any active transactions
+2019-10-28 16:27:17.594 +08 [2852] LOG:  worker process: logical replication launcher (PID 4692) exited with exit code 1
+2019-10-28 16:27:17.595 +08 [15288] LOG:  shutting down
+2019-10-28 16:27:17.657 +08 [2852] LOG:  database system is shut down
+2019-10-28 16:33:09.316 +08 [17492] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-28 16:33:09.317 +08 [17492] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-28 16:33:09.424 +08 [19396] LOG:  database system was shut down at 2019-10-28 16:27:17 +08
+2019-10-28 16:33:09.553 +08 [17492] LOG:  database system is ready to accept connections
+2019-10-28 16:37:57.911 +08 [17492] LOG:  received fast shutdown request
+2019-10-28 16:37:57.913 +08 [17492] LOG:  aborting any active transactions
+2019-10-28 16:37:57.923 +08 [17492] LOG:  worker process: logical replication launcher (PID 18548) exited with exit code 1
+2019-10-28 16:37:57.924 +08 [12076] LOG:  shutting down
+2019-10-28 16:37:58.008 +08 [17492] LOG:  database system is shut down
+2019-10-30 18:26:38.987 +08 [20044] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-30 18:26:38.988 +08 [20044] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-30 18:26:39.239 +08 [20088] LOG:  database system was shut down at 2019-10-28 16:37:57 +08
+2019-10-30 18:26:39.397 +08 [20044] LOG:  database system is ready to accept connections
+2019-10-30 18:52:35.636 +08 [20044] LOG:  received fast shutdown request
+2019-10-30 18:52:35.662 +08 [20044] LOG:  aborting any active transactions
+2019-10-30 18:52:35.672 +08 [20044] LOG:  worker process: logical replication launcher (PID 20228) exited with exit code 1
+2019-10-30 18:52:35.673 +08 [20116] LOG:  shutting down
+2019-10-30 18:52:35.718 +08 [20044] LOG:  database system is shut down
+2019-10-31 15:22:06.863 +08 [12092] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-31 15:22:06.864 +08 [12092] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-31 15:22:07.091 +08 [15500] LOG:  database system was shut down at 2019-10-30 18:52:35 +08
+2019-10-31 15:22:07.336 +08 [12092] LOG:  database system is ready to accept connections
+2019-10-31 15:29:08.230 +08 [12092] LOG:  received fast shutdown request
+2019-10-31 15:29:08.280 +08 [12092] LOG:  aborting any active transactions
+2019-10-31 15:29:08.281 +08 [4092] FATAL:  terminating connection due to administrator command
+2019-10-31 15:29:08.282 +08 [16084] FATAL:  terminating connection due to administrator command
+2019-10-31 15:29:08.284 +08 [5448] FATAL:  terminating connection due to administrator command
+2019-10-31 15:29:08.285 +08 [2036] FATAL:  terminating connection due to administrator command
+2019-10-31 15:29:08.307 +08 [12092] LOG:  worker process: logical replication launcher (PID 5768) exited with exit code 1
+2019-10-31 15:29:08.317 +08 [16700] LOG:  shutting down
+2019-10-31 15:29:08.397 +08 [12092] LOG:  database system is shut down
+2019-10-31 15:48:23.795 +08 [5924] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-31 15:48:23.796 +08 [5924] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-31 15:48:23.972 +08 [816] LOG:  database system was shut down at 2019-10-31 15:29:08 +08
+2019-10-31 15:48:24.355 +08 [5924] LOG:  database system is ready to accept connections
+2019-10-31 15:51:30.349 +08 [5924] LOG:  received fast shutdown request
+2019-10-31 15:51:30.405 +08 [5924] LOG:  aborting any active transactions
+2019-10-31 15:51:30.433 +08 [5924] LOG:  worker process: logical replication launcher (PID 4448) exited with exit code 1
+2019-10-31 15:51:30.446 +08 [2652] LOG:  shutting down
+2019-10-31 15:51:30.516 +08 [5924] LOG:  database system is shut down
+2019-10-31 19:18:29.728 +08 [16816] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-31 19:18:29.728 +08 [16816] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-31 19:18:29.925 +08 [19428] LOG:  database system was shut down at 2019-10-31 15:51:30 +08
+2019-10-31 19:18:30.188 +08 [16816] LOG:  database system is ready to accept connections
+2019-10-31 19:51:59.742 +08 [16816] LOG:  received fast shutdown request
+2019-10-31 19:51:59.744 +08 [16816] LOG:  aborting any active transactions
+2019-10-31 19:51:59.745 +08 [4240] FATAL:  terminating connection due to administrator command
+2019-10-31 19:51:59.745 +08 [17296] FATAL:  terminating connection due to administrator command
+2019-10-31 19:51:59.757 +08 [16816] LOG:  worker process: logical replication launcher (PID 19148) exited with exit code 1
+2019-10-31 19:51:59.759 +08 [18708] LOG:  shutting down
+2019-10-31 19:51:59.803 +08 [16816] LOG:  database system is shut down
+2019-10-31 20:24:21.069 +08 [15180] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-31 20:24:21.070 +08 [15180] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-31 20:24:21.412 +08 [15800] LOG:  database system was shut down at 2019-10-31 19:51:59 +08
+2019-10-31 20:24:21.590 +08 [15180] LOG:  database system is ready to accept connections
+2019-10-31 20:33:25.191 +08 [15180] LOG:  received fast shutdown request
+2019-10-31 20:33:25.195 +08 [15180] LOG:  aborting any active transactions
+2019-10-31 20:33:25.203 +08 [15180] LOG:  worker process: logical replication launcher (PID 10284) exited with exit code 1
+2019-10-31 20:33:25.205 +08 [11948] LOG:  shutting down
+2019-10-31 20:33:25.248 +08 [15180] LOG:  database system is shut down
+2019-10-31 20:38:39.533 +08 [5376] LOG:  listening on IPv6 address "::1", port 5432
+2019-10-31 20:38:39.533 +08 [5376] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-10-31 20:38:39.632 +08 [11468] LOG:  database system was shut down at 2019-10-31 20:33:25 +08
+2019-10-31 20:38:39.754 +08 [5376] LOG:  database system is ready to accept connections
+2019-10-31 21:38:09.530 +08 [5376] LOG:  received fast shutdown request
+2019-10-31 21:38:09.576 +08 [5376] LOG:  aborting any active transactions
+2019-10-31 21:38:09.589 +08 [5376] LOG:  worker process: logical replication launcher (PID 3092) exited with exit code 1
+2019-10-31 21:38:09.591 +08 [17356] LOG:  shutting down
+2019-10-31 21:38:09.734 +08 [5376] LOG:  database system is shut down
+2019-11-01 11:58:05.889 +08 [11548] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-01 11:58:05.889 +08 [11548] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-01 11:58:05.992 +08 [8176] LOG:  database system was shut down at 2019-10-31 21:38:09 +08
+2019-11-01 11:58:06.132 +08 [11548] LOG:  database system is ready to accept connections
+2019-11-01 13:00:28.866 +08 [11548] LOG:  received fast shutdown request
+2019-11-01 13:00:28.877 +08 [11548] LOG:  aborting any active transactions
+2019-11-01 13:00:28.888 +08 [11548] LOG:  worker process: logical replication launcher (PID 6768) exited with exit code 1
+2019-11-01 13:00:28.889 +08 [13852] LOG:  shutting down
+2019-11-01 13:00:28.943 +08 [11548] LOG:  database system is shut down
+2019-11-01 15:28:35.980 +08 [14236] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-01 15:28:35.980 +08 [14236] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-01 15:28:36.209 +08 [14284] LOG:  database system was shut down at 2019-11-01 13:00:28 +08
+2019-11-01 15:28:36.560 +08 [14236] LOG:  database system is ready to accept connections
+2019-11-01 16:22:40.377 +08 [14236] LOG:  received fast shutdown request
+2019-11-01 16:22:40.426 +08 [14236] LOG:  aborting any active transactions
+2019-11-01 16:22:40.442 +08 [14236] LOG:  worker process: logical replication launcher (PID 13496) exited with exit code 1
+2019-11-01 16:22:40.443 +08 [13336] LOG:  shutting down
+2019-11-01 16:22:40.530 +08 [14236] LOG:  database system is shut down
+2019-11-02 13:41:00.863 +08 [17268] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-02 13:41:00.863 +08 [17268] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-02 13:41:01.037 +08 [19440] LOG:  database system was shut down at 2019-11-01 16:22:40 +08
+2019-11-02 13:41:01.190 +08 [17268] LOG:  database system is ready to accept connections
+2019-11-02 13:52:44.024 +08 [17268] LOG:  received fast shutdown request
+2019-11-02 13:52:44.026 +08 [17268] LOG:  aborting any active transactions
+2019-11-02 13:52:44.036 +08 [17268] LOG:  worker process: logical replication launcher (PID 6844) exited with exit code 1
+2019-11-02 13:52:44.037 +08 [18512] LOG:  shutting down
+2019-11-02 13:52:44.155 +08 [17268] LOG:  database system is shut down
+2019-11-02 14:03:05.290 +08 [3012] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-02 14:03:05.290 +08 [3012] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-02 14:03:05.396 +08 [17180] LOG:  database system was shut down at 2019-11-02 13:52:44 +08
+2019-11-02 14:03:05.532 +08 [3012] LOG:  database system is ready to accept connections
+2019-11-02 14:08:18.800 +08 [3012] LOG:  received fast shutdown request
+2019-11-02 14:08:18.803 +08 [3012] LOG:  aborting any active transactions
+2019-11-02 14:08:18.813 +08 [3012] LOG:  worker process: logical replication launcher (PID 18992) exited with exit code 1
+2019-11-02 14:08:18.814 +08 [16160] LOG:  shutting down
+2019-11-02 14:08:18.858 +08 [3012] LOG:  database system is shut down
+2019-11-02 20:39:20.461 +08 [16656] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-02 20:39:20.462 +08 [16656] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-02 20:39:20.941 +08 [16708] LOG:  database system was shut down at 2019-11-02 14:08:18 +08
+2019-11-02 20:39:21.230 +08 [16656] LOG:  database system is ready to accept connections
+2019-11-02 20:39:29.430 +08 [16656] LOG:  received fast shutdown request
+2019-11-02 20:39:29.604 +08 [16656] LOG:  aborting any active transactions
+2019-11-02 20:39:29.613 +08 [16656] LOG:  worker process: logical replication launcher (PID 15372) exited with exit code 1
+2019-11-02 20:39:29.615 +08 [16876] LOG:  shutting down
+2019-11-02 20:39:29.764 +08 [16656] LOG:  database system is shut down
+2019-11-02 20:39:32.436 +08 [17800] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-02 20:39:32.436 +08 [17800] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-02 20:39:32.594 +08 [17872] LOG:  database system was shut down at 2019-11-02 20:39:29 +08
+2019-11-02 20:39:32.934 +08 [17800] LOG:  database system is ready to accept connections
+2019-11-02 21:15:51.619 +08 [15808] ERROR:  invalid input syntax for type json
+2019-11-02 21:15:51.619 +08 [15808] DETAIL:  Expected "," or "}", but found ""Jumbo Chicken Set"".
+2019-11-02 21:15:51.619 +08 [15808] CONTEXT:  JSON data, line 3: ...k Pepper Chicken Set":"4.8"
+		"Jumbo Chicken Set"...
+2019-11-02 21:15:51.619 +08 [15808] STATEMENT:  UPDATE public.stallmonitor_stallmenu
+		SET stallmenu=$1
+		WHERE "key"=$2
+2019-11-02 21:18:16.599 +08 [17800] LOG:  received fast shutdown request
+2019-11-02 21:18:16.602 +08 [17800] LOG:  aborting any active transactions
+2019-11-02 21:18:16.611 +08 [17800] LOG:  worker process: logical replication launcher (PID 17992) exited with exit code 1
+2019-11-02 21:18:16.613 +08 [17900] LOG:  shutting down
+2019-11-02 21:18:16.768 +08 [17800] LOG:  database system is shut down
+2019-11-02 21:31:52.928 +08 [18064] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-02 21:31:54.783 +08 [18064] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-02 21:31:55.180 +08 [19168] LOG:  database system was shut down at 2019-11-02 21:18:16 +08
+2019-11-02 21:31:55.399 +08 [18064] LOG:  database system is ready to accept connections
+2019-11-02 21:45:36.251 +08 [18064] LOG:  received fast shutdown request
+2019-11-02 21:45:36.253 +08 [18064] LOG:  aborting any active transactions
+2019-11-02 21:45:36.254 +08 [14728] FATAL:  terminating connection due to administrator command
+2019-11-02 21:45:36.254 +08 [8084] FATAL:  terminating connection due to administrator command
+2019-11-02 21:45:36.266 +08 [18064] LOG:  worker process: logical replication launcher (PID 4020) exited with exit code 1
+2019-11-02 21:45:36.268 +08 [19364] LOG:  shutting down
+2019-11-02 21:45:36.382 +08 [18064] LOG:  database system is shut down
+2019-11-03 10:22:17.348 +08 [17040] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 10:22:17.348 +08 [17040] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 10:22:17.531 +08 [18380] LOG:  database system was shut down at 2019-11-02 21:45:36 +08
+2019-11-03 10:22:17.750 +08 [17040] LOG:  database system is ready to accept connections
+2019-11-03 10:22:26.434 +08 [17040] LOG:  received fast shutdown request
+2019-11-03 10:22:26.437 +08 [17040] LOG:  aborting any active transactions
+2019-11-03 10:22:26.446 +08 [17040] LOG:  worker process: logical replication launcher (PID 16024) exited with exit code 1
+2019-11-03 10:22:26.447 +08 [19412] LOG:  shutting down
+2019-11-03 10:22:26.547 +08 [17040] LOG:  database system is shut down
+2019-11-03 10:22:29.280 +08 [20044] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 10:22:29.281 +08 [20044] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 10:22:29.385 +08 [13004] LOG:  database system was shut down at 2019-11-03 10:22:26 +08
+2019-11-03 10:22:29.548 +08 [20044] LOG:  database system is ready to accept connections
+2019-11-03 10:32:24.438 +08 [1428] ERROR:  invalid input syntax for type json
+2019-11-03 10:32:24.438 +08 [1428] DETAIL:  Expected string, but found "}".
+2019-11-03 10:32:24.438 +08 [1428] CONTEXT:  JSON data, line 1: {
+		"Mee Rubus":"5",
+		"Nazi Lamak":"3.0",
+	}
+2019-11-03 10:32:24.438 +08 [1428] STATEMENT:  INSERT INTO public.stallmonitor_stallmenu (id,stallmenu,starttime,endtime,secondsperperson,openingdays)
+		VALUES ($1,$2,$3,$4,$5,$6)
+	RETURNING *
+2019-11-03 11:06:03.604 +08 [20044] LOG:  received fast shutdown request
+2019-11-03 11:06:03.606 +08 [20044] LOG:  aborting any active transactions
+2019-11-03 11:06:03.615 +08 [20044] LOG:  worker process: logical replication launcher (PID 14252) exited with exit code 1
+2019-11-03 11:06:03.616 +08 [20388] LOG:  shutting down
+2019-11-03 11:06:03.662 +08 [20044] LOG:  database system is shut down
+2019-11-03 11:15:14.107 +08 [16576] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 11:15:14.108 +08 [16576] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 11:15:14.213 +08 [14692] LOG:  database system was shut down at 2019-11-03 11:06:03 +08
+2019-11-03 11:15:14.334 +08 [16576] LOG:  database system is ready to accept connections
+2019-11-03 11:16:27.804 +08 [16576] LOG:  received fast shutdown request
+2019-11-03 11:16:27.807 +08 [16576] LOG:  aborting any active transactions
+2019-11-03 11:16:27.817 +08 [16576] LOG:  worker process: logical replication launcher (PID 4112) exited with exit code 1
+2019-11-03 11:16:27.818 +08 [19688] LOG:  shutting down
+2019-11-03 11:16:27.908 +08 [16576] LOG:  database system is shut down
+2019-11-03 11:26:48.676 +08 [16476] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 11:26:48.810 +08 [16476] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 11:26:48.916 +08 [20492] LOG:  database system was shut down at 2019-11-03 11:16:27 +08
+2019-11-03 11:26:49.057 +08 [16476] LOG:  database system is ready to accept connections
+2019-11-03 11:34:42.151 +08 [16476] LOG:  received fast shutdown request
+2019-11-03 11:34:42.154 +08 [16476] LOG:  aborting any active transactions
+2019-11-03 11:34:42.155 +08 [21016] FATAL:  terminating connection due to administrator command
+2019-11-03 11:34:42.155 +08 [20976] FATAL:  terminating connection due to administrator command
+2019-11-03 11:34:42.156 +08 [20944] FATAL:  terminating connection due to administrator command
+2019-11-03 11:34:42.156 +08 [20912] FATAL:  terminating connection due to administrator command
+2019-11-03 11:34:42.168 +08 [16476] LOG:  worker process: logical replication launcher (PID 20616) exited with exit code 1
+2019-11-03 11:34:42.169 +08 [20520] LOG:  shutting down
+2019-11-03 11:34:42.214 +08 [16476] LOG:  database system is shut down
+2019-11-03 11:34:53.221 +08 [21476] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 11:34:53.221 +08 [21476] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 11:34:53.326 +08 [21244] LOG:  database system was shut down at 2019-11-03 11:34:42 +08
+2019-11-03 11:34:53.470 +08 [21476] LOG:  database system is ready to accept connections
+2019-11-03 11:51:25.537 +08 [21476] LOG:  received fast shutdown request
+2019-11-03 11:51:25.540 +08 [21476] LOG:  aborting any active transactions
+2019-11-03 11:51:25.550 +08 [21476] LOG:  worker process: logical replication launcher (PID 19968) exited with exit code 1
+2019-11-03 11:51:25.550 +08 [5084] LOG:  shutting down
+2019-11-03 11:51:25.599 +08 [21476] LOG:  database system is shut down
+2019-11-03 12:05:39.273 +08 [3984] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 12:05:39.273 +08 [3984] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 12:05:39.414 +08 [15336] LOG:  database system was shut down at 2019-11-03 11:51:25 +08
+2019-11-03 12:05:39.538 +08 [3984] LOG:  database system is ready to accept connections
+2019-11-03 12:23:16.127 +08 [3984] LOG:  received fast shutdown request
+2019-11-03 12:23:16.131 +08 [3984] LOG:  aborting any active transactions
+2019-11-03 12:23:16.131 +08 [6228] FATAL:  terminating connection due to administrator command
+2019-11-03 12:23:16.132 +08 [7716] FATAL:  terminating connection due to administrator command
+2019-11-03 12:23:16.132 +08 [18264] FATAL:  terminating connection due to administrator command
+2019-11-03 12:23:16.132 +08 [5628] FATAL:  terminating connection due to administrator command
+2019-11-03 12:23:16.142 +08 [3984] LOG:  worker process: logical replication launcher (PID 16324) exited with exit code 1
+2019-11-03 12:23:16.145 +08 [7752] LOG:  shutting down
+2019-11-03 12:23:16.253 +08 [3984] LOG:  database system is shut down
+2019-11-03 12:23:20.928 +08 [2740] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 12:23:20.929 +08 [2740] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 12:23:21.031 +08 [13704] LOG:  database system was shut down at 2019-11-03 12:23:16 +08
+2019-11-03 12:23:21.176 +08 [2740] LOG:  database system is ready to accept connections
+2019-11-03 12:37:03.964 +08 [2740] LOG:  received fast shutdown request
+2019-11-03 12:37:03.967 +08 [2740] LOG:  aborting any active transactions
+2019-11-03 12:37:03.976 +08 [2740] LOG:  worker process: logical replication launcher (PID 19436) exited with exit code 1
+2019-11-03 12:37:03.977 +08 [21200] LOG:  shutting down
+2019-11-03 12:37:04.116 +08 [2740] LOG:  database system is shut down
+2019-11-03 12:39:16.466 +08 [5996] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 12:39:16.466 +08 [5996] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 12:39:16.579 +08 [8392] LOG:  database system was shut down at 2019-11-03 12:37:03 +08
+2019-11-03 12:39:16.723 +08 [5996] LOG:  database system is ready to accept connections
+2019-11-03 12:39:49.537 +08 [18728] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-03 12:39:51.339 +08 [5996] LOG:  received fast shutdown request
+2019-11-03 12:39:51.384 +08 [5996] LOG:  aborting any active transactions
+2019-11-03 12:39:51.393 +08 [5996] LOG:  worker process: logical replication launcher (PID 14848) exited with exit code 1
+2019-11-03 12:39:51.396 +08 [20524] LOG:  shutting down
+2019-11-03 12:39:51.467 +08 [5996] LOG:  database system is shut down
+2019-11-03 15:24:45.733 +08 [10164] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 15:24:45.733 +08 [10164] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 15:24:45.840 +08 [2212] LOG:  database system was shut down at 2019-11-03 12:39:51 +08
+2019-11-03 15:24:46.018 +08 [10164] LOG:  database system is ready to accept connections
+2019-11-03 15:29:31.632 +08 [17968] FATAL:  role "elijah" does not exist
+2019-11-03 15:34:47.360 +08 [10164] LOG:  received fast shutdown request
+2019-11-03 15:34:47.363 +08 [10164] LOG:  aborting any active transactions
+2019-11-03 15:34:47.364 +08 [4044] FATAL:  terminating connection due to administrator command
+2019-11-03 15:34:47.364 +08 [17240] FATAL:  terminating connection due to administrator command
+2019-11-03 15:34:47.364 +08 [8292] FATAL:  terminating connection due to administrator command
+2019-11-03 15:34:47.365 +08 [4684] FATAL:  terminating connection due to administrator command
+2019-11-03 15:34:47.376 +08 [10164] LOG:  worker process: logical replication launcher (PID 17104) exited with exit code 1
+2019-11-03 15:34:47.377 +08 [10412] LOG:  shutting down
+2019-11-03 15:34:47.421 +08 [10164] LOG:  database system is shut down
+2019-11-03 15:35:47.764 +08 [5116] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 15:35:47.764 +08 [5116] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 15:35:47.869 +08 [18080] LOG:  database system was shut down at 2019-11-03 15:34:47 +08
+2019-11-03 15:35:47.996 +08 [5116] LOG:  database system is ready to accept connections
+2019-11-03 15:55:12.282 +08 [5116] LOG:  received fast shutdown request
+2019-11-03 15:55:12.284 +08 [5116] LOG:  aborting any active transactions
+2019-11-03 15:55:12.293 +08 [5116] LOG:  worker process: logical replication launcher (PID 17972) exited with exit code 1
+2019-11-03 15:55:12.296 +08 [10900] LOG:  shutting down
+2019-11-03 15:55:12.440 +08 [5116] LOG:  database system is shut down
+2019-11-03 19:00:34.106 +08 [17176] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-03 19:00:34.106 +08 [17176] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-03 19:00:34.260 +08 [15936] LOG:  database system was shut down at 2019-11-03 15:55:12 +08
+2019-11-03 19:00:34.405 +08 [17176] LOG:  database system is ready to accept connections
+2019-11-03 19:12:45.337 +08 [1100] ERROR:  column stallmonitor_stallinfo.menuname does not exist at character 323
+2019-11-03 19:12:45.337 +08 [1100] STATEMENT:  SELECT "stallmonitor_stallinfo"."id", "stallmonitor_stallinfo"."name", "stallmonitor_stallinfo"."stallinfo", "stallmonitor_stallinfo"."stallposterfile", "stallmonitor_stallinfo"."font_type", "stallmonitor_stallinfo"."font_colour", "stallmonitor_stallinfo"."stallbackgroundfile", "stallmonitor_stallinfo"."operatinghours", "stallmonitor_stallinfo"."menuname" FROM "stallmonitor_stallinfo"
+2019-11-03 19:12:57.856 +08 [9904] ERROR:  column stallmonitor_stallinfo.menuname does not exist at character 323
+2019-11-03 19:12:57.856 +08 [9904] STATEMENT:  SELECT "stallmonitor_stallinfo"."id", "stallmonitor_stallinfo"."name", "stallmonitor_stallinfo"."stallinfo", "stallmonitor_stallinfo"."stallposterfile", "stallmonitor_stallinfo"."font_type", "stallmonitor_stallinfo"."font_colour", "stallmonitor_stallinfo"."stallbackgroundfile", "stallmonitor_stallinfo"."operatinghours", "stallmonitor_stallinfo"."menuname" FROM "stallmonitor_stallinfo"
+2019-11-03 19:12:59.233 +08 [15516] ERROR:  column stallmonitor_stallinfo.menuname does not exist at character 323
+2019-11-03 19:12:59.233 +08 [15516] STATEMENT:  SELECT "stallmonitor_stallinfo"."id", "stallmonitor_stallinfo"."name", "stallmonitor_stallinfo"."stallinfo", "stallmonitor_stallinfo"."stallposterfile", "stallmonitor_stallinfo"."font_type", "stallmonitor_stallinfo"."font_colour", "stallmonitor_stallinfo"."stallbackgroundfile", "stallmonitor_stallinfo"."operatinghours", "stallmonitor_stallinfo"."menuname" FROM "stallmonitor_stallinfo"
+2019-11-03 19:13:08.787 +08 [15516] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-03 19:13:08.787 +08 [1100] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-03 19:13:08.787 +08 [9904] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-03 19:13:08.787 +08 [5248] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-03 19:13:32.851 +08 [3856] ERROR:  column stallmonitor_stallinfo.menuname does not exist at character 323
+2019-11-03 19:13:32.851 +08 [3856] STATEMENT:  SELECT "stallmonitor_stallinfo"."id", "stallmonitor_stallinfo"."name", "stallmonitor_stallinfo"."stallinfo", "stallmonitor_stallinfo"."stallposterfile", "stallmonitor_stallinfo"."font_type", "stallmonitor_stallinfo"."font_colour", "stallmonitor_stallinfo"."stallbackgroundfile", "stallmonitor_stallinfo"."operatinghours", "stallmonitor_stallinfo"."menuname" FROM "stallmonitor_stallinfo"
+2019-11-03 19:14:57.499 +08 [3856] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-03 19:20:10.523 +08 [17176] LOG:  received fast shutdown request
+2019-11-03 19:20:10.526 +08 [17176] LOG:  aborting any active transactions
+2019-11-03 19:20:10.526 +08 [18792] FATAL:  terminating connection due to administrator command
+2019-11-03 19:20:10.526 +08 [13176] FATAL:  terminating connection due to administrator command
+2019-11-03 19:20:10.527 +08 [19952] FATAL:  terminating connection due to administrator command
+2019-11-03 19:20:10.527 +08 [19920] FATAL:  terminating connection due to administrator command
+2019-11-03 19:20:10.527 +08 [19876] FATAL:  terminating connection due to administrator command
+2019-11-03 19:20:10.528 +08 [19844] FATAL:  terminating connection due to administrator command
+2019-11-03 19:20:10.543 +08 [17176] LOG:  worker process: logical replication launcher (PID 16392) exited with exit code 1
+2019-11-03 19:20:10.549 +08 [14432] LOG:  shutting down
+2019-11-03 19:20:10.593 +08 [17176] LOG:  database system is shut down
+2019-11-04 11:44:18.293 +08 [8] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-04 11:44:18.294 +08 [8] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-04 11:44:18.472 +08 [13652] LOG:  database system was shut down at 2019-11-03 19:20:10 +08
+2019-11-04 11:44:18.723 +08 [8] LOG:  database system is ready to accept connections
+2019-11-04 11:45:55.677 +08 [8] LOG:  received fast shutdown request
+2019-11-04 11:45:55.680 +08 [8] LOG:  aborting any active transactions
+2019-11-04 11:45:55.690 +08 [8] LOG:  worker process: logical replication launcher (PID 16840) exited with exit code 1
+2019-11-04 11:45:55.690 +08 [10888] LOG:  shutting down
+2019-11-04 11:45:55.741 +08 [8] LOG:  database system is shut down
+2019-11-04 11:55:23.144 +08 [13548] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-04 11:55:23.144 +08 [13548] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-04 11:55:23.245 +08 [13928] LOG:  database system was shut down at 2019-11-04 11:45:55 +08
+2019-11-04 11:55:23.380 +08 [13548] LOG:  database system is ready to accept connections
+2019-11-04 12:04:17.082 +08 [18224] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 12:16:45.315 +08 [13548] LOG:  received fast shutdown request
+2019-11-04 12:16:45.326 +08 [13548] LOG:  aborting any active transactions
+2019-11-04 12:16:45.342 +08 [13548] LOG:  worker process: logical replication launcher (PID 18392) exited with exit code 1
+2019-11-04 12:16:45.346 +08 [14900] LOG:  shutting down
+2019-11-04 12:16:45.431 +08 [13548] LOG:  database system is shut down
+2019-11-04 12:16:52.566 +08 [15008] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-04 12:16:52.566 +08 [15008] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-04 12:16:52.704 +08 [17644] LOG:  database system was shut down at 2019-11-04 12:16:45 +08
+2019-11-04 12:16:52.897 +08 [15008] LOG:  database system is ready to accept connections
+2019-11-04 12:17:49.161 +08 [12256] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 12:20:23.791 +08 [15008] LOG:  received fast shutdown request
+2019-11-04 12:20:23.801 +08 [15008] LOG:  aborting any active transactions
+2019-11-04 12:20:23.810 +08 [15008] LOG:  worker process: logical replication launcher (PID 9148) exited with exit code 1
+2019-11-04 12:20:23.812 +08 [4808] LOG:  shutting down
+2019-11-04 12:20:23.866 +08 [15008] LOG:  database system is shut down
+2019-11-04 12:20:28.238 +08 [18164] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-04 12:20:28.239 +08 [18164] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-04 12:20:28.364 +08 [15176] LOG:  database system was shut down at 2019-11-04 12:20:23 +08
+2019-11-04 12:20:28.538 +08 [18164] LOG:  database system is ready to accept connections
+2019-11-04 12:23:00.361 +08 [18164] LOG:  received fast shutdown request
+2019-11-04 12:23:00.371 +08 [18164] LOG:  aborting any active transactions
+2019-11-04 12:23:00.372 +08 [1128] FATAL:  terminating connection due to administrator command
+2019-11-04 12:23:00.372 +08 [2648] FATAL:  terminating connection due to administrator command
+2019-11-04 12:23:00.383 +08 [18164] LOG:  worker process: logical replication launcher (PID 15724) exited with exit code 1
+2019-11-04 12:23:00.385 +08 [13344] LOG:  shutting down
+2019-11-04 12:23:00.446 +08 [18164] LOG:  database system is shut down
+<<<<<<< HEAD
+2019-11-04 14:37:38.503 +08 [8624] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-04 14:37:38.503 +08 [8624] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-04 14:37:38.580 +08 [3100] LOG:  database system was shut down at 2019-11-04 12:23:00 +08
+2019-11-04 14:37:38.581 +08 [3100] LOG:  creating missing WAL directory "pg_wal/archive_status"
+2019-11-04 14:37:38.748 +08 [8624] LOG:  database system is ready to accept connections
+2019-11-04 15:11:35.671 +08 [5812] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:27:40.794 +08 [8412] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:29:05.158 +08 [8424] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:50:41.893 +08 [6672] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:54:15.836 +08 [3160] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:54:17.207 +08 [9108] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:54:21.764 +08 [3100] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:54:23.623 +08 [8912] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:54:27.093 +08 [3612] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:54:29.218 +08 [6152] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 15:54:30.698 +08 [3556] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:00:50.260 +08 [8868] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:06:06.602 +08 [9232] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:06:47.590 +08 [1192] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:12:21.637 +08 [8852] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:25:04.629 +08 [9468] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:25:20.541 +08 [9620] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:25:22.720 +08 [9656] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:25:24.286 +08 [5860] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:26:11.112 +08 [10228] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:26:15.517 +08 [8624] LOG:  server process (PID 8504) was terminated by exception 0xC000013A
+2019-11-04 16:26:15.517 +08 [8624] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-11-04 16:26:15.517 +08 [8624] LOG:  terminating any other active server processes
+2019-11-04 16:26:15.520 +08 [8332] WARNING:  terminating connection because of crash of another server process
+2019-11-04 16:26:15.520 +08 [8332] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 16:26:15.520 +08 [8332] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 16:26:15.547 +08 [8624] LOG:  all server processes terminated; reinitializing
+2019-11-04 16:26:15.607 +08 [7280] LOG:  database system was interrupted; last known up at 2019-11-04 14:42:38 +08
+^C2019-11-04 16:26:29.331 +08 [3892] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-04 16:26:29.333 +08 [3892] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-04 16:26:29.443 +08 [9932] LOG:  database system was interrupted; last known up at 2019-11-04 14:42:38 +08
+2019-11-04 16:26:31.566 +08 [9932] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-11-04 16:26:31.576 +08 [9932] LOG:  redo starts at 0/170F738
+2019-11-04 16:26:31.576 +08 [9932] LOG:  invalid record length at 0/170F818: wanted 24, got 0
+2019-11-04 16:26:31.576 +08 [9932] LOG:  redo done at 0/170F7E0
+2019-11-04 16:26:31.962 +08 [3892] LOG:  database system is ready to accept connections
+2019-11-04 16:28:12.051 +08 [2612] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:28:41.197 +08 [4588] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 16:28:41.197 +08 [9844] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-11-04 17:33:07.295 +08 [3892] LOG:  server process (PID 2116) was terminated by exception 0xC000013A
+2019-11-04 17:33:07.295 +08 [3892] DETAIL:  Failed process was running: SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"
+2019-11-04 17:33:07.295 +08 [3892] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-11-04 17:33:07.295 +08 [3892] LOG:  terminating any other active server processes
+2019-11-04 17:33:07.311 +08 [6260] WARNING:  terminating connection because of crash of another server process
+2019-11-04 17:33:07.311 +08 [6260] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 17:33:07.311 +08 [6260] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 17:33:07.311 +08 [9120] WARNING:  terminating connection because of crash of another server process
+2019-11-04 17:33:07.311 +08 [9120] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 17:33:07.311 +08 [9120] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 17:33:07.312 +08 [4996] WARNING:  terminating connection because of crash of another server process
+2019-11-04 17:33:07.312 +08 [4996] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 17:33:07.312 +08 [4996] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 17:33:07.313 +08 [2724] WARNING:  terminating connection because of crash of another server process
+2019-11-04 17:33:07.313 +08 [2724] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 17:33:07.313 +08 [2724] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 17:33:07.320 +08 [9636] WARNING:  terminating connection because of crash of another server process
+2019-11-04 17:33:07.320 +08 [9636] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 17:33:07.320 +08 [9636] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 17:33:07.351 +08 [3892] LOG:  all server processes terminated; reinitializing
+2019-11-04 17:33:07.426 +08 [7532] LOG:  database system was interrupted; last known up at 2019-11-04 16:26:31 +08
+2019-11-04 17:33:08.739 +08 [7532] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-11-04 17:33:08.748 +08 [7532] LOG:  redo starts at 0/170F888
+2019-11-04 17:33:08.749 +08 [7532] LOG:  invalid record length at 0/170F8C0: wanted 24, got 0
+2019-11-04 17:33:08.749 +08 [7532] LOG:  redo done at 0/170F888
+2019-11-04 17:33:08.888 +08 [3892] LOG:  database system is ready to accept connections
+2019-11-04 17:33:21.787 +08 [3892] LOG:  worker process: logical replication launcher (PID 2312) was terminated by exception 0xC000013A
+2019-11-04 17:33:21.787 +08 [3892] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-11-04 17:33:21.787 +08 [3892] LOG:  terminating any other active server processes
+2019-11-04 17:33:21.789 +08 [7588] WARNING:  terminating connection because of crash of another server process
+2019-11-04 17:33:21.789 +08 [7588] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 17:33:21.789 +08 [7588] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 17:33:21.802 +08 [3892] LOG:  statistics collector process (PID 5852) was terminated by exception 0xC000013A
+2019-11-04 17:33:21.802 +08 [3892] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-11-04 17:33:21.803 +08 [3892] LOG:  all server processes terminated; reinitializing
+2019-11-04 17:33:21.850 +08 [8876] LOG:  database system was interrupted; last known up at 2019-11-04 17:33:08 +08
+2019-11-04 17:33:23.639 +08 [8876] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-11-04 17:33:23.648 +08 [8876] LOG:  invalid record length at 0/170F930: wanted 24, got 0
+2019-11-04 17:33:23.648 +08 [8876] LOG:  redo is not required
+2019-11-04 17:33:23.797 +08 [3892] LOG:  database system is ready to accept connections
+2019-11-04 17:33:24.777 +08 [3892] LOG:  worker process: logical replication launcher (PID 9924) was terminated by exception 0xC000013A
+2019-11-04 17:33:24.777 +08 [3892] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-11-04 17:33:24.777 +08 [3892] LOG:  terminating any other active server processes
+2019-11-04 17:33:24.778 +08 [8448] WARNING:  terminating connection because of crash of another server process
+2019-11-04 17:33:24.778 +08 [8448] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2019-11-04 17:33:24.778 +08 [8448] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2019-11-04 17:33:24.794 +08 [3892] LOG:  statistics collector process (PID 2664) was terminated by exception 0xC000013A
+2019-11-04 17:33:24.794 +08 [3892] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-11-04 17:33:24.798 +08 [3892] LOG:  all server processes terminated; reinitializing
+2019-11-04 17:33:24.845 +08 [8596] LOG:  database system was interrupted; last known up at 2019-11-04 17:33:23 +08
+2019-11-04 17:33:26.464 +08 [3892] LOG:  startup process (PID 8596) was terminated by exception 0xC000013A
+2019-11-04 17:33:26.464 +08 [3892] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2019-11-04 17:33:26.465 +08 [3892] LOG:  aborting startup due to startup process failure
+^C
+=======
+2019-11-04 12:56:47.967 +08 [19000] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-04 12:56:47.968 +08 [19000] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-04 12:56:48.101 +08 [16728] LOG:  database system was shut down at 2019-11-04 12:23:00 +08
+2019-11-04 12:56:48.300 +08 [19000] LOG:  database system is ready to accept connections
+2019-11-04 13:17:41.453 +08 [19000] LOG:  received fast shutdown request
+2019-11-04 13:17:41.464 +08 [19000] LOG:  aborting any active transactions
+2019-11-04 13:17:41.464 +08 [19784] FATAL:  terminating connection due to administrator command
+2019-11-04 13:17:41.465 +08 [13932] FATAL:  terminating connection due to administrator command
+2019-11-04 13:17:41.466 +08 [5532] FATAL:  terminating connection due to administrator command
+2019-11-04 13:17:41.467 +08 [10000] FATAL:  terminating connection due to administrator command
+2019-11-04 13:17:41.467 +08 [17456] FATAL:  terminating connection due to administrator command
+2019-11-04 13:17:41.470 +08 [11032] FATAL:  terminating connection due to administrator command
+2019-11-04 13:17:41.498 +08 [19000] LOG:  worker process: logical replication launcher (PID 18976) exited with exit code 1
+2019-11-04 13:17:41.504 +08 [18600] LOG:  shutting down
+2019-11-04 13:17:41.578 +08 [19000] LOG:  database system is shut down
+>>>>>>> 6250e8b8d994324e3d257321f6321160f0a24552
+2019-11-05 22:10:30.426 +08 [8600] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-05 22:10:30.427 +08 [8600] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-05 22:10:30.528 +08 [18348] LOG:  database system was interrupted; last known up at 2019-11-04 17:33:23 +08
+2019-11-05 22:10:37.620 +08 [14616] FATAL:  the database system is starting up
+2019-11-05 22:10:47.410 +08 [18348] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-11-05 22:10:47.518 +08 [18348] LOG:  invalid record length at 0/170F9A0: wanted 24, got 0
+2019-11-05 22:10:47.518 +08 [18348] LOG:  redo is not required
+2019-11-05 22:10:47.728 +08 [8600] LOG:  database system is ready to accept connections
+2019-11-05 22:31:33.688 +08 [8600] LOG:  received fast shutdown request
+2019-11-05 22:31:33.714 +08 [8600] LOG:  aborting any active transactions
+2019-11-05 22:31:33.724 +08 [8600] LOG:  worker process: logical replication launcher (PID 7828) exited with exit code 1
+2019-11-05 22:31:33.725 +08 [18052] LOG:  shutting down
+2019-11-05 22:31:33.832 +08 [8600] LOG:  database system is shut down
+2019-11-05 22:37:28.384 +08 [13040] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-05 22:37:28.385 +08 [13040] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-05 22:37:28.488 +08 [17920] LOG:  database system was shut down at 2019-11-05 22:31:33 +08
+2019-11-05 22:37:28.618 +08 [13040] LOG:  database system is ready to accept connections
+2019-11-05 22:50:56.904 +08 [13040] LOG:  received fast shutdown request
+2019-11-05 22:50:56.906 +08 [13040] LOG:  aborting any active transactions
+2019-11-05 22:50:56.906 +08 [8676] FATAL:  terminating connection due to administrator command
+2019-11-05 22:50:56.907 +08 [17984] FATAL:  terminating connection due to administrator command
+2019-11-05 22:50:56.915 +08 [13040] LOG:  worker process: logical replication launcher (PID 16300) exited with exit code 1
+2019-11-05 22:50:56.918 +08 [8672] LOG:  shutting down
+2019-11-05 22:50:56.967 +08 [13040] LOG:  database system is shut down
+2019-11-05 22:55:32.709 +08 [2560] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-05 22:55:32.709 +08 [2560] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-05 22:55:32.817 +08 [6192] LOG:  database system was shut down at 2019-11-05 22:50:56 +08
+2019-11-05 22:55:32.941 +08 [2560] LOG:  database system is ready to accept connections
+2019-11-05 23:07:09.209 +08 [2560] LOG:  received fast shutdown request
+2019-11-05 23:07:09.212 +08 [2560] LOG:  aborting any active transactions
+2019-11-05 23:07:09.222 +08 [2560] LOG:  worker process: logical replication launcher (PID 16172) exited with exit code 1
+2019-11-05 23:07:09.223 +08 [4604] LOG:  shutting down
+2019-11-05 23:07:09.266 +08 [2560] LOG:  database system is shut down
+2019-11-07 12:35:36.388 +08 [9264] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-07 12:35:36.389 +08 [9264] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-07 12:35:36.533 +08 [14248] LOG:  database system was shut down at 2019-11-05 23:07:09 +08
+2019-11-07 12:35:36.706 +08 [9264] LOG:  database system is ready to accept connections
+2019-11-07 13:06:59.872 +08 [9264] LOG:  received fast shutdown request
+2019-11-07 13:06:59.875 +08 [9264] LOG:  aborting any active transactions
+2019-11-07 13:06:59.875 +08 [12692] FATAL:  terminating connection due to administrator command
+2019-11-07 13:06:59.876 +08 [15972] FATAL:  terminating connection due to administrator command
+2019-11-07 13:06:59.887 +08 [9264] LOG:  worker process: logical replication launcher (PID 7868) exited with exit code 1
+2019-11-07 13:06:59.895 +08 [10220] LOG:  shutting down
+2019-11-07 13:06:59.953 +08 [9264] LOG:  database system is shut down
+2019-11-07 14:24:51.921 +08 [19432] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-07 14:24:51.921 +08 [19432] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-07 14:24:52.063 +08 [10532] LOG:  database system was shut down at 2019-11-07 13:06:59 +08
+2019-11-07 14:24:52.235 +08 [19432] LOG:  database system is ready to accept connections
+2019-11-07 14:26:37.939 +08 [7888] ERROR:  invalid input syntax for type json
+2019-11-07 14:26:37.939 +08 [7888] DETAIL:  Token "macdonalds_promotion" is invalid.
+2019-11-07 14:26:37.939 +08 [7888] CONTEXT:  JSON data, line 1: macdonalds_promotion...
+2019-11-07 14:26:37.939 +08 [7888] STATEMENT:  UPDATE public.stallmonitor_stallinfo
+		SET operatinghours=$1
+		WHERE id=$2
+2019-11-07 14:27:15.706 +08 [7888] ERROR:  invalid input syntax for type json
+2019-11-07 14:27:15.706 +08 [7888] DETAIL:  The input string ended unexpectedly.
+2019-11-07 14:27:15.706 +08 [7888] CONTEXT:  JSON data, line 1: 
+2019-11-07 14:27:15.706 +08 [7888] STATEMENT:  UPDATE public.stallmonitor_stallinfo
+		SET stallposterfile=$1,operatinghours=$2
+		WHERE id=$3
+2019-11-07 15:10:14.124 +08 [19432] LOG:  received fast shutdown request
+2019-11-07 15:10:14.135 +08 [19432] LOG:  aborting any active transactions
+2019-11-07 15:10:14.144 +08 [19432] LOG:  worker process: logical replication launcher (PID 18604) exited with exit code 1
+2019-11-07 15:10:14.147 +08 [18480] LOG:  shutting down
+2019-11-07 15:10:14.195 +08 [19432] LOG:  database system is shut down
+2019-11-08 15:43:28.286 +08 [13996] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-08 15:43:28.286 +08 [13996] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-08 15:43:28.465 +08 [15264] LOG:  database system was shut down at 2019-11-07 15:10:14 +08
+2019-11-08 15:43:28.783 +08 [13996] LOG:  database system is ready to accept connections
+2019-11-08 16:10:35.931 +08 [13996] LOG:  received fast shutdown request
+2019-11-08 16:10:35.935 +08 [13996] LOG:  aborting any active transactions
+2019-11-08 16:10:35.956 +08 [13996] LOG:  worker process: logical replication launcher (PID 7576) exited with exit code 1
+2019-11-08 16:10:35.961 +08 [14480] LOG:  shutting down
+2019-11-08 16:10:36.062 +08 [13996] LOG:  database system is shut down
+2019-11-08 16:10:54.409 +08 [14152] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-08 16:10:54.410 +08 [14152] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-08 16:10:54.621 +08 [9964] LOG:  database system was shut down at 2019-11-08 16:10:35 +08
+2019-11-08 16:10:54.908 +08 [14152] LOG:  database system is ready to accept connections
+2019-11-08 16:11:51.414 +08 [14152] LOG:  received fast shutdown request
+2019-11-08 16:11:51.463 +08 [14152] LOG:  aborting any active transactions
+2019-11-08 16:11:51.485 +08 [14152] LOG:  worker process: logical replication launcher (PID 11012) exited with exit code 1
+2019-11-08 16:11:51.489 +08 [1208] LOG:  shutting down
+2019-11-08 16:11:51.589 +08 [14152] LOG:  database system is shut down
+2019-11-08 16:15:55.595 +08 [14376] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-08 16:15:55.596 +08 [14376] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-08 16:15:55.799 +08 [7768] LOG:  database system was shut down at 2019-11-08 16:11:51 +08
+2019-11-08 16:15:56.092 +08 [14376] LOG:  database system is ready to accept connections
+2019-11-08 16:20:06.570 +08 [14376] LOG:  received fast shutdown request
+2019-11-08 16:20:06.620 +08 [14376] LOG:  aborting any active transactions
+2019-11-08 16:20:06.640 +08 [14376] LOG:  worker process: logical replication launcher (PID 5924) exited with exit code 1
+2019-11-08 16:20:06.642 +08 [2372] LOG:  shutting down
+2019-11-08 16:20:06.750 +08 [14376] LOG:  database system is shut down
+2019-11-08 16:28:00.826 +08 [8180] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-08 16:28:00.827 +08 [8180] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-08 16:28:01.042 +08 [17364] LOG:  database system was shut down at 2019-11-08 16:20:06 +08
+2019-11-08 16:28:01.337 +08 [8180] LOG:  database system is ready to accept connections
+2019-11-08 16:29:45.819 +08 [8180] LOG:  received fast shutdown request
+2019-11-08 16:29:45.868 +08 [8180] LOG:  aborting any active transactions
+2019-11-08 16:29:45.882 +08 [8180] LOG:  worker process: logical replication launcher (PID 16996) exited with exit code 1
+2019-11-08 16:29:45.886 +08 [16860] LOG:  shutting down
+2019-11-08 16:29:45.978 +08 [8180] LOG:  database system is shut down
+2019-11-08 18:37:15.654 +08 [10772] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-08 18:37:15.654 +08 [10772] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-08 18:37:15.957 +08 [1716] LOG:  database system was shut down at 2019-11-08 16:29:45 +08
+2019-11-08 18:37:16.234 +08 [10772] LOG:  database system is ready to accept connections
+2019-11-08 18:39:38.265 +08 [10772] LOG:  received fast shutdown request
+2019-11-08 18:39:38.267 +08 [10772] LOG:  aborting any active transactions
+2019-11-08 18:39:38.277 +08 [10772] LOG:  worker process: logical replication launcher (PID 17576) exited with exit code 1
+2019-11-08 18:39:38.278 +08 [12764] LOG:  shutting down
+2019-11-08 18:39:38.345 +08 [10772] LOG:  database system is shut down
+2019-11-09 21:15:00.892 +08 [4212] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-09 21:15:00.893 +08 [4212] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-09 21:15:01.042 +08 [2748] LOG:  database system was shut down at 2019-11-08 18:39:38 +08
+2019-11-09 21:15:01.271 +08 [4212] LOG:  database system is ready to accept connections
+2019-11-09 21:29:45.499 +08 [4212] LOG:  received fast shutdown request
+2019-11-09 21:29:45.501 +08 [4212] LOG:  aborting any active transactions
+2019-11-09 21:29:45.511 +08 [4212] LOG:  worker process: logical replication launcher (PID 20204) exited with exit code 1
+2019-11-09 21:29:45.513 +08 [16192] LOG:  shutting down
+2019-11-09 21:29:45.557 +08 [4212] LOG:  database system is shut down
+2019-11-10 10:59:15.565 +08 [6036] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-10 10:59:15.566 +08 [6036] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-10 10:59:15.912 +08 [2740] LOG:  database system was shut down at 2019-11-09 21:29:45 +08
+2019-11-10 10:59:16.134 +08 [6036] LOG:  database system is ready to accept connections
+2019-11-10 11:04:16.865 +08 [6036] LOG:  received fast shutdown request
+2019-11-10 11:04:16.869 +08 [6036] LOG:  aborting any active transactions
+2019-11-10 11:04:16.870 +08 [18984] FATAL:  terminating connection due to administrator command
+2019-11-10 11:04:16.870 +08 [18952] FATAL:  terminating connection due to administrator command
+2019-11-10 11:04:16.870 +08 [18904] FATAL:  terminating connection due to administrator command
+2019-11-10 11:04:16.871 +08 [18872] FATAL:  terminating connection due to administrator command
+2019-11-10 11:04:16.882 +08 [6036] LOG:  worker process: logical replication launcher (PID 14848) exited with exit code 1
+2019-11-10 11:04:16.883 +08 [18248] LOG:  shutting down
+2019-11-10 11:04:16.928 +08 [6036] LOG:  database system is shut down
+2019-11-10 11:05:49.163 +08 [6484] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-10 11:05:49.163 +08 [6484] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-10 11:05:49.278 +08 [19272] LOG:  database system was shut down at 2019-11-10 11:04:16 +08
+2019-11-10 11:05:49.443 +08 [6484] LOG:  database system is ready to accept connections
+2019-11-10 11:13:12.734 +08 [6484] LOG:  received fast shutdown request
+2019-11-10 11:13:12.745 +08 [6484] LOG:  aborting any active transactions
+2019-11-10 11:13:12.754 +08 [6484] LOG:  worker process: logical replication launcher (PID 1800) exited with exit code 1
+2019-11-10 11:13:12.756 +08 [17964] LOG:  shutting down
+2019-11-10 11:13:12.901 +08 [6484] LOG:  database system is shut down
+2019-11-10 13:54:28.028 +08 [16932] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-10 13:54:28.029 +08 [16932] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-10 13:54:28.256 +08 [17336] LOG:  database system was shut down at 2019-11-10 11:13:12 +08
+2019-11-10 13:54:28.437 +08 [16932] LOG:  database system is ready to accept connections
+2019-11-10 14:11:10.870 +08 [16932] LOG:  received fast shutdown request
+2019-11-10 14:11:10.872 +08 [16932] LOG:  aborting any active transactions
+2019-11-10 14:11:10.872 +08 [9836] FATAL:  terminating connection due to administrator command
+2019-11-10 14:11:10.873 +08 [10092] FATAL:  terminating connection due to administrator command
+2019-11-10 14:11:10.882 +08 [16932] LOG:  worker process: logical replication launcher (PID 16696) exited with exit code 1
+2019-11-10 14:11:10.886 +08 [8380] LOG:  shutting down
+2019-11-10 14:11:10.932 +08 [16932] LOG:  database system is shut down
+2019-11-11 10:40:45.949 +08 [16368] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-11 10:40:45.952 +08 [16368] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-11 10:40:46.104 +08 [15804] LOG:  database system was shut down at 2019-11-10 14:11:10 +08
+2019-11-11 10:40:46.372 +08 [16368] LOG:  database system is ready to accept connections
+2019-11-11 10:45:42.568 +08 [16368] LOG:  received fast shutdown request
+2019-11-11 10:45:42.571 +08 [16368] LOG:  aborting any active transactions
+2019-11-11 10:45:42.590 +08 [16368] LOG:  worker process: logical replication launcher (PID 688) exited with exit code 1
+2019-11-11 10:45:42.592 +08 [9936] LOG:  shutting down
+2019-11-11 10:45:42.715 +08 [16368] LOG:  database system is shut down
+2019-11-11 11:09:17.613 +08 [16568] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-11 11:09:17.614 +08 [16568] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-11 11:09:17.727 +08 [32] LOG:  database system was shut down at 2019-11-11 10:45:42 +08
+2019-11-11 11:09:17.917 +08 [16568] LOG:  database system is ready to accept connections
+2019-11-11 11:20:29.305 +08 [16568] LOG:  received fast shutdown request
+2019-11-11 11:20:29.316 +08 [16568] LOG:  aborting any active transactions
+2019-11-11 11:20:29.317 +08 [8624] FATAL:  terminating connection due to administrator command
+2019-11-11 11:20:29.318 +08 [17204] FATAL:  terminating connection due to administrator command
+2019-11-11 11:20:29.338 +08 [16568] LOG:  worker process: logical replication launcher (PID 16784) exited with exit code 1
+2019-11-11 11:20:29.342 +08 [7000] LOG:  shutting down
+2019-11-11 11:20:29.419 +08 [16568] LOG:  database system is shut down
+2019-11-13 19:22:08.625 +08 [19600] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-13 19:22:08.625 +08 [19600] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-13 19:22:08.781 +08 [19556] LOG:  database system was shut down at 2019-11-11 11:20:29 +08
+2019-11-13 19:22:08.915 +08 [19600] LOG:  database system is ready to accept connections
+2019-11-13 19:23:03.226 +08 [19600] LOG:  received fast shutdown request
+2019-11-13 19:23:03.228 +08 [19600] LOG:  aborting any active transactions
+2019-11-13 19:23:03.238 +08 [19600] LOG:  worker process: logical replication launcher (PID 19676) exited with exit code 1
+2019-11-13 19:23:03.239 +08 [13848] LOG:  shutting down
+2019-11-13 19:23:03.292 +08 [19600] LOG:  database system is shut down
+2019-11-14 12:04:21.979 +08 [16344] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-14 12:04:21.980 +08 [16344] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-14 12:04:22.543 +08 [4672] LOG:  database system was shut down at 2019-11-13 19:23:03 +08
+2019-11-14 12:04:22.796 +08 [16344] LOG:  database system is ready to accept connections
+2019-11-14 12:29:13.955 +08 [16344] LOG:  received fast shutdown request
+2019-11-14 12:29:14.005 +08 [16344] LOG:  aborting any active transactions
+2019-11-14 12:29:14.026 +08 [16344] LOG:  worker process: logical replication launcher (PID 12892) exited with exit code 1
+2019-11-14 12:29:14.028 +08 [15220] LOG:  shutting down
+2019-11-14 12:29:14.115 +08 [16344] LOG:  database system is shut down
+2019-11-14 14:23:40.409 +08 [8724] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-14 14:23:40.410 +08 [8724] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-14 14:23:40.583 +08 [3328] LOG:  database system was shut down at 2019-11-14 12:29:14 +08
+2019-11-14 14:23:40.803 +08 [8724] LOG:  database system is ready to accept connections
+2019-11-14 14:30:39.423 +08 [14756] FATAL:  role "elija" does not exist
+2019-11-14 14:31:26.443 +08 [13896] FATAL:  database "pixelstall" does not exist
+2019-11-14 14:35:20.861 +08 [8724] LOG:  received fast shutdown request
+2019-11-14 14:35:20.864 +08 [8724] LOG:  aborting any active transactions
+2019-11-14 14:35:20.864 +08 [5584] FATAL:  terminating connection due to administrator command
+2019-11-14 14:35:20.865 +08 [15252] FATAL:  terminating connection due to administrator command
+2019-11-14 14:35:20.865 +08 [17260] FATAL:  terminating connection due to administrator command
+2019-11-14 14:35:20.866 +08 [856] FATAL:  terminating connection due to administrator command
+2019-11-14 14:35:20.880 +08 [8724] LOG:  worker process: logical replication launcher (PID 12832) exited with exit code 1
+2019-11-14 14:35:20.882 +08 [11364] LOG:  shutting down
+2019-11-14 14:35:20.932 +08 [8724] LOG:  database system is shut down
+2019-11-14 14:37:36.594 +08 [4072] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-14 14:37:36.594 +08 [4072] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-14 14:37:36.694 +08 [7320] LOG:  database system was shut down at 2019-11-14 14:35:20 +08
+2019-11-14 14:37:36.798 +08 [4072] LOG:  database system is ready to accept connections
+2019-11-14 14:40:24.371 +08 [4072] LOG:  received fast shutdown request
+2019-11-14 14:40:24.374 +08 [4072] LOG:  aborting any active transactions
+2019-11-14 14:40:24.383 +08 [4072] LOG:  worker process: logical replication launcher (PID 17384) exited with exit code 1
+2019-11-14 14:40:24.386 +08 [9472] LOG:  shutting down
+2019-11-14 14:40:24.437 +08 [4072] LOG:  database system is shut down
+2019-11-15 13:50:48.387 +08 [6200] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-15 13:50:48.389 +08 [6200] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-15 13:50:48.638 +08 [9088] LOG:  database system was shut down at 2019-11-14 14:40:24 +08
+2019-11-15 13:50:48.852 +08 [6200] LOG:  database system is ready to accept connections
+2019-11-15 13:52:10.237 +08 [6200] LOG:  received fast shutdown request
+2019-11-15 13:52:10.287 +08 [6200] LOG:  aborting any active transactions
+2019-11-15 13:52:10.303 +08 [6200] LOG:  worker process: logical replication launcher (PID 3524) exited with exit code 1
+2019-11-15 13:52:10.305 +08 [8408] LOG:  shutting down
+2019-11-15 13:52:10.392 +08 [6200] LOG:  database system is shut down
+2019-11-15 14:33:11.175 +08 [13764] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-15 14:33:11.176 +08 [13764] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-15 14:33:11.277 +08 [7812] LOG:  database system was shut down at 2019-11-15 13:52:10 +08
+2019-11-15 14:33:11.420 +08 [13764] LOG:  database system is ready to accept connections
+2019-11-15 15:04:05.808 +08 [13764] LOG:  received fast shutdown request
+2019-11-15 15:04:05.812 +08 [13764] LOG:  aborting any active transactions
+2019-11-15 15:04:05.828 +08 [13764] LOG:  worker process: logical replication launcher (PID 5668) exited with exit code 1
+2019-11-15 15:04:05.836 +08 [13760] LOG:  shutting down
+2019-11-15 15:04:05.915 +08 [13764] LOG:  database system is shut down
+2019-11-15 15:15:41.295 +08 [15556] LOG:  listening on IPv6 address "::1", port 5432
+2019-11-15 15:15:41.296 +08 [15556] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-11-15 15:15:41.481 +08 [6912] LOG:  database system was shut down at 2019-11-15 15:04:05 +08
+2019-11-15 15:15:41.722 +08 [15556] LOG:  database system is ready to accept connections
+2019-11-15 15:18:21.723 +08 [15556] LOG:  received fast shutdown request
+2019-11-15 15:18:21.732 +08 [15556] LOG:  aborting any active transactions
+2019-11-15 15:18:21.741 +08 [15556] LOG:  worker process: logical replication launcher (PID 3292) exited with exit code 1
+2019-11-15 15:18:21.743 +08 [15976] LOG:  shutting down
+2019-11-15 15:18:21.798 +08 [15556] LOG:  database system is shut down

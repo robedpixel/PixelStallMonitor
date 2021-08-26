@@ -1,0 +1,13 @@
+*.pyc
+/*
+!/.gitignore
+!/environment.yml
+!/README.md
+!/SetupCondaEnv.bat
+!/SetupCondaEnv.sh
+
+!/src
+/src/server/server/__pycache__
+/src/server/server/databasesettings.ini
+
+.idea/
